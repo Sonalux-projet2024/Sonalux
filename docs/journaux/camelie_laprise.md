@@ -74,7 +74,7 @@ Apprendre et maîtriser le logiciel TouchDesigner.
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assignées dans le lapse de temps qui m'était donné, c'est-à-dire une semaine.   
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
