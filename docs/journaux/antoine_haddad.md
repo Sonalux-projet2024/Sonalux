@@ -1,5 +1,5 @@
 # Journal de "Participant 3"
-![Antoine](../web/medias/participants/antoine.png)
+![Antoine](medias/Antoine/antoine.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
