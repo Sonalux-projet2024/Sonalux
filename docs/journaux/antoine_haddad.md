@@ -1,5 +1,5 @@
 # Journal de "Participant 3"
-![portrait du participant ](../web/medias/participants/C.png)
+![Antoine](../web/medias/participants/IMG_5128.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
@@ -15,86 +15,67 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- Vivamus lacinia tincidunt dui, non auctor justo. 
-- Fusce euismod ornare dolor. 
-- Vestibulum euismod, nulla eu blandit mollis, erat diam convallis lorem, consectetur rhoncus libero sapien in enim. 
-- Praesent viverra tristique malesuada. 
-- Mauris ex ligula, eleifend sed tellus ac, elementum blandit nunc. 
-- Phasellus blandit elit eu nibh blandit molestie. 
-- Nulla facilisi. Praesent vitae quam fermentum leo viverra ultrices eget nec massa. 
+- Moodboard sonore
+- Recréation du schéma de plantation
+- Commencement du logo de projet
+- Schéma et prototype du podium
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/motionCapture.jpg)
-ou
-![ici est une description de l'image](medias/console.jpg)
-ou
-![ici est une description de l'image](medias/photoshop.jpg)
+![schema_plantation](medias/Antoine/IMG_6551.png)
+![prototype_podium](medias/Antoine/IMG_6552.png)
 
-### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
-- [ ] Complètement
-- [ ] Assez
-- [x] Peu
-- [ ] Pas du tout
-
-#### Décrivez pourquoi.
-Phasellus placerat malesuada dictum. Sed dapibus sem vulputate, blandit ligula non, hendrerit dolor. Vivamus congue sit amet nulla nec tristique. Fusce eget nisi justo. 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
-
-### Mon projet s'est-il réalisé selon l’échéancier prévu?
-
-- [ ] Complètement
-- [x] Assez
-- [ ] Un peu
-- [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl pharetra, dapibus purus quis, porttitor velit. Vestibulum nec mauris est.
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
-
-### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
-
----
-## Semaine 2
-### Résumé des réalisations effectuées
-
-
-### Image d'une réalisation dont tu es la ou le plus fier
-
-
-
-### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
-
-- [ ] Complètement
+### Est-ce que j'ai accompli l'ensemble des tâches et ou objectifs que je m'étais fixés pour cette semaine?	
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+J'ai accompli l'ensemble de mes tâches dans les temps voulu.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
+### Défis pour la prochaine semaine
+De demander à mon gérant pour l'utilisation du bois pour l'assemblage du podium. Si possible, assembler le podium.
 
+---
+## Semaine 2
+### Résumé des réalisations effectuées
+- Finalisation du logo du projet
+- Création et finalisation de la bannière du projet
+- Mesurer et couper du bois pour le podium
+-  Assemblage du podium
+-  Expérimentation avec Arduino
 
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+### Image d'une réalisation dont tu es la ou le plus fier
 
+![logo](medias/Antoine/IMG_6559.png)
+![podium](medias/Antoine/IMG_6558.heif)
+
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
+
+- [X] Complètement
+- [ ] Assez
+- [ ] Peu
+- [ ] Pas du tout
+
+#### Décrivez pourquoi.
+Cette semaine, j'ai eu beaucoup de motivation à travailler sur le projet parce qu'il s'agit de tâches que j'aime particulièrement faire.
+
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
+
+- [X] Complètement
+- [ ] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait
 
 ### Défis pour la prochaine semaine
-
+Me re-habituer à Arduino et l'utilisation du Atom5 et potentiellement réussi à coder les Unit Key comme un basculement (Toggle).
 
 ---
 ## Semaine 3 
