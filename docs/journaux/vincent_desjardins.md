@@ -52,37 +52,31 @@ montrer aux autres membres de l'équipe le fonctionnement de touchdesigner. Avan
 - repenser le schéma de l'interacteur du projet
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![image avec projection sur 3 ecran et distribuer sur 2 ordinateurs](medias/vincent_desjardins/capture_modulke_sonore_generatif.JPG)
+![screenshot de vcv rack](medias/vincent_desjardins/capture_modulke_sonore_generatif.JPG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+ j'ai réaliser un module de son génératif qui fonctionne très bien et va pouvoir etre facilement adaptable pour intégrer les controle provenant de notre module interactif physique, mais je trouve que le son qu'il produit n'est pas encore excactement ce a quoi nous voulons que sa sonne, donc c'est pourquoi je me done la note de "assez", car c'est une très bonne base et maintenant il reste juste a expérimenter avec les différents sons a générer.
+ Aussi j'ai pu prendre une demi-journée avec Camélie pour m'assoir avec elle et lui montrer les bases de Touchdesigner et l'accompagner dans ses premier balbutiment dans le logiciel.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
+- [ ] 
 ### Défis pour la prochaine semaine
-
-
+puisque que Vcv rack est compatible avec Cardinal(une version open source et gratuite de Vcv) j'ai réussi à intégrer Cardinal dans TouchDesigner et le faire runner comme un vst audio a l'intérieur même du projet touch.
+Ce qui pourrait rendre le projet plus simple a "allumer", car nous aurions seulement a ouvrir le projet touch et le projet serait prêt rouler. Donc pas besoin d'ouvrir plusieurs logiciel et faire la communication entre chacun.
+Par contre le défi est que maintenant je suis seulement capable de sortir de l'audio quand cardinal est dans touch comme Vst, mais je dois trouver comment je peut aussi lui envoyer de l'information (par example du Midi).
+un autre défi auquel je n'est pas encore fait face est de trouver une liscence touchdesigenr,car nous avons fait des test avec une projetion et la qualité est correct sans plus ni moin, mais j'aimerai vraiment pouvoir output du visuel plus sharp et de haute qualitée
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
