@@ -63,8 +63,7 @@ Apprendre et maîtriser le logiciel TouchDesigner.
 - Corriger le devoir 01 de Thomas
   
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![Image d'un paysage visuel génératif créé](medias/camelie_laprise/image_realisation_fiere_s2.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
