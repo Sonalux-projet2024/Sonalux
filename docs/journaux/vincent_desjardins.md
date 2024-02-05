@@ -53,6 +53,7 @@ montrer aux autres membres de l'équipe le fonctionnement de touchdesigner. Avan
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![screenshot de vcv rack](medias/vincent_desjardins/capture_modulke_sonore_generatif.JPG)
+[![Thumbnail video demo](https://img.youtube.com/vi/mpexjQdZeSs/0.jpg)](https://www.youtube.com/watch?v=mpexjQdZeSs)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
