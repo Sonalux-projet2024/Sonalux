@@ -20,6 +20,17 @@ Enfin, nous avons également commencer à réfléchir et à créer une première
 On a bien hâte de voir le projet se concrétiser davantage dans les lieux physiques. À suivre
 
 ## Semaine 2
+> Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
+
+Cette semaine a été parsemée de réalisations et d'apprentissage.
+
+Tout d’abord, comme prévu, nous avons chacun commencé à réaliser nos tâches attribuées personnellement nous poussant tous à apprendre l'utilisation de nouvelles choses : un logiciel, des patchs VCV Rack ou du code. Nous avons pensé à l'esthétique exact de notre expérience pour qu'elle concorde autant au niveau sonore que visuel dans le but de former un tout. Aussi, nous avons fait le devoir donné par Thomas ce jeudi à remettre le jeudi suivant, donc à la semaine 3, en plus d'amener les corrections mentionnées pour le devoir 01.
+
+Par la suite, nous avons récupéré notre matériel demandé pour commencer à faire certains tests tel que la projection d'un paysage visuel créé dans TouchDesigner. Nous avons également continué et finalisé la création du logo et de la bannière de Sonalux. 
+
+Enfin, nous avons filmé la vidéo d'intention du projet et nous avons déterminé l'espace de notre installation en plaçant les deux murs mobiles avec en leur millieu le podium conçu. 
+
+On a bien hâte de voir le projet se concrétiser davantage dans les lieux physiques. À suivre
 
 ## Semaine 3
 
