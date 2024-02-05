@@ -26,6 +26,8 @@ Cette semaine a été parsemée de réalisations et d'apprentissage.
 
 Tout d’abord, comme prévu, nous avons chacun commencé à réaliser nos tâches attribuées personnellement nous poussant tous à apprendre l'utilisation de nouvelles choses : le logiciel TouchDesigner, des patchs VCV Rack ou du code dans Arduino. Nous avons pensé à l'esthétique exact de notre expérience pour qu'elle concorde autant au niveau sonore que visuel dans le but de former un tout. Aussi, nous avons fait le devoir donné par Thomas ce jeudi à remettre le jeudi suivant, donc à la semaine 3, en plus d'amener les corrections mentionnées pour le devoir 01.
 
+![Image du test](medias/collectif/image_test_s2.png)
+
 Par la suite, nous avons récupéré notre matériel demandé pour commencer à faire certains tests tel que la projection d'un paysage visuel créé dans TouchDesigner. Nous avons également continué et finalisé la création du logo et de la bannière de Sonalux. 
 
 ![Image du logo final de Sonalux](medias/collectif/image_logo_final.png)
