@@ -28,7 +28,13 @@ Tout d’abord, comme prévu, nous avons chacun commencé à réaliser nos tâch
 
 Par la suite, nous avons récupéré notre matériel demandé pour commencer à faire certains tests tel que la projection d'un paysage visuel créé dans TouchDesigner. Nous avons également continué et finalisé la création du logo et de la bannière de Sonalux. 
 
+![Image du logo final de Sonalux](medias/collectif/image_logo_final.png)
+
+![Image de la bannière finale de Sonalux](medias/collectif/image_banniere_finale.png)
+
 Enfin, nous avons filmé la vidéo d'intention du projet et nous avons déterminé l'espace de notre installation en plaçant les deux murs mobiles avec en leur millieu le podium conçu. 
+
+![Image de l'installation](medias/collectif/image_installation_s2.png)
 
 On a bien hâte de voir le projet se concrétiser davantage dans les lieux physiques. À suivre
 
