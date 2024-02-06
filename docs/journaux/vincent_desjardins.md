@@ -82,7 +82,8 @@ un autre défi auquel je n'est pas encore fait face est de trouver une liscence 
 ## Semaine 3 
 ### Résumé des réalisations effectuées
 J'ai créer une interface virtuel de notre futur interface physique. elle nous permet maintenant de pouvoir construire notre code et ne pas avancer dans le vide.
-Elle permet de controler toute l'instalation de plus elle peut aussi etre contrôler par de l'osc donc le tout est prêt a intégrer nos mmicro controleur
+Elle permet de controler toute l'instalation de plus elle peut aussi etre contrôler par de l'osc donc le tout est prêt a intégrer nos mmicro controleur.
+Sur la capture d'écran on peut voir max, car j'ai simuler des message osc, car je n'avais pas encore le micro controleurs en mains donc c'étais une solution rapide et efficace pour la programmation dans max et vcv.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
