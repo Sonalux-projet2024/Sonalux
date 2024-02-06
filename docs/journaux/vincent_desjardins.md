@@ -81,10 +81,11 @@ un autre défi auquel je n'est pas encore fait face est de trouver une liscence 
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+J'ai créer une interface virtuel de notre futur interface physique. elle nous permet maintenant de pouvoir construire notre code et ne pas avancer dans le vide.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+[![Thumbnail video demo](https://img.youtube.com/vi/SaGyNHdBeMM/0.jpg)](https://www.youtube.com/watch?v=SaGyNHdBeMM)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
