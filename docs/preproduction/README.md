@@ -162,17 +162,17 @@ Angle Unit :
 * Mélodie qui change de gamme
 * Réverbération 
 * Dry\Wet Réverbération 
-* Changement de Noise (White, Brown, Red, etc.)
-* Changement de Wave form.
-* Attack
-* Release
-* Timbre\Harmonic
+* Changement de bruit (White, Brown, Red, etc.)
+* Changement de forme d'onde
+* Attaque
+* Relâche
+* Timbre\Harmonie
   
 Key Unit (Toggle) :
-* Bass lignes
-* Hat
+* Lignes de basses
+* Mélodie
 * Kick
-* Snare
+* Percussion
   
 Fader :
 * Volume
