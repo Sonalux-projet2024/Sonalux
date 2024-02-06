@@ -35,7 +35,7 @@
 # Intention ou concept
 
 ## Intention de départ
-Par ce projet, nous souhaitons pousser l'interacteur à se déchaîner de toutes de forme de contrôle pour laisser place à la céation complète d'un monde immersif et interactif qui mène vers une expérience hyperstimulative. De plus, le but de Sonalux est de repenser les idées préconçues d'un studio de musique dans un esthétique psychédélique qui permet de rendre l'installation accessible pour tout le monde. 
+Par ce projet, nous souhaitons pousser l'interacteur à se déchaîner de toutes de forme de contrôle pour laisser place à la création complète d'un monde immersif et interactif qui mène vers une expérience hyperstimulante. De plus, le but de Sonalux est de repenser les idées préconçues d'un studio de musique dans un esthétique psychédélique qui permet de rendre l'installation accessible pour tout le monde. 
 
 ## Synopsis
 Sonalux est une expérience divisée en 3 tableaux qui se distinguent par leur intensité graduelle sonore et visuelle ainsi que leur environnement qui devient davantage chaotique et explosif de couleurs et de sons. Le public est appelé à découvrir les particularités des différents tableaux qui composent le projet en explorant les diverses composantes de la boîte.
@@ -92,7 +92,6 @@ Sonalux est une expérience divisée en 3 tableaux qui se distinguent par leur i
 
 - 4 paysages visuels génératifs (TouchDesigner)
 - 4 paysages sonores (VCV Rack)
-- 6 modules multimédias (Captation des données (kinect/boite son), interprétation des données, contrôle des tubes LED, effets audiovisuels, contrôle vidéo/mapping projection, contrôle de la navigation utilisateur & des différents sous-modules).
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
@@ -109,12 +108,11 @@ Sonalux est une expérience divisée en 3 tableaux qui se distinguent par leur i
 > ![Schéma de branchement de la boîte sonore](medias/schemas/schema_branchement_boite_sonore.png)
 
 ## Installation
-L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans les herses, il y a deux hauts-parleurs ainsi que 4 projecteurs et une Kinect accrochés afin de projeter un son ambiant, trois projections et opérer une captation de présence. Au centre de l'installation se trouve un podium qui sert à contrôler les différents paysages sonores et visuels de l'expérience. Pour ce faire, l'interacteur devra utiliser une boite qui est posée au dessus du podium et qui est composée de différentes composantes M5Stack : Atom Lite, Atom POE, Encoder, Key Unit, PBHub, GroveHub, M5Stack Fader Unit w/ B10K Potentiometer. Le podium sera décoré de LED tout autour qui réagiront au fil de l'interaction.
+L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans les herses, il y a deux hauts-parleurs ainsi que 4 projecteurs et une Kinect accrochés afin de projeter un son ambiant, trois projections et opérer une captation de présence. Au centre de l'installation se trouve un podium qui sert à contrôler les différents paysages sonores et visuels de l'expérience. Pour ce faire, l'interacteur devra utiliser une boite qui est posée au dessus du podium et qui est composée de différentes composantes M5Stack : Atom Lite, Atom POE, Angle Unit, Key Unit, PBHub, GroveHub, M5Stack Fader Unit w/ B10K Potentiometer. Le podium sera décoré de bandes autocollantes DEL tout autour qui réagiront au fil de l'interaction.
 
 ## Matériel de scénographie requis
 
 * 2 murs mobiles
-* Rideau noir
 
 ## Équipements requis
 
@@ -148,11 +146,11 @@ L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans 
 * M5Stack
     * 2 Atom Lite
     * 2 Atom POE
-    * 6 Encoder
+    * 6 Angle Unit
     * 4 Key Unit
     * 2 PBHub
     * 1 GroveHub
-    * 2 M5Stack Fader Unit w/ B10K Potentiometer (https://www.robotshop.com/products/m5stack-fader-unit-w-b10k-potentiometer-sk6812)
+    * 1 M5Stack Fader Unit w/ B10K Potentiometer 
       
 * Autre
     * Boîte sonore (à créer)
@@ -160,10 +158,10 @@ L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans 
 
 ## Rôle des composantes de M5Stack
 
-Encoder :
+Angle Unit :
 * Mélodie qui change de gamme
-* Reverb
-* Dry\Wet Reverb
+* Réverbération 
+* Dry\Wet Réverbération 
 * Changement de Noise (White, Brown, Red, etc.)
 * Changement de Wave form.
 * Attack
@@ -177,7 +175,6 @@ Key Unit (Toggle) :
 * Snare
   
 Fader :
-* Changement de vitesse\Tempo
 * Volume
   
 ## Logiciels requis
@@ -190,6 +187,7 @@ Fader :
 ## Ressources humaines requises
 
 * TTP, location de matériel
+* Professeurs 
   
 ## Ressources spatiales requises (rangement et locaux)
 
