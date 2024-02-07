@@ -89,43 +89,39 @@ Commencer à réfléchir au mapping des 3 projections sur le mur ainsi que celle
 
 ---
 ## Semaine 3 
+
 ### Résumé des réalisations effectuées
 
+- Réalisation du paysage principal de l'expérience
+- Réalisation du paysage visuel du sol
+- Mettre à jour la préproduction
+- Mettre à jour les devoirs artistiques pour le cours de Thomas
 
-### Image d'une réalisation dont tu es la ou le plus fier
+### Image d'une réalisation dont tu es la plus fière
 
-
+![Image d'un_paysage_touchdesigner](medias/ghita_alaoui/image_realisation_fiere_s3.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
  
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
 
 ---
 ## Semaine 4
+
 ### Résumé des réalisations effectuées
 
 
