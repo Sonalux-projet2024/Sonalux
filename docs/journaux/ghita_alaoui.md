@@ -15,6 +15,7 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
+
 - Améliorer l'intention du projet
 - Clarifier le synopsis
 - Expliquer l'installation et les différentes composantes de la boite
@@ -23,9 +24,10 @@
 - Arranger les erreurs dans la présentation de la préproduction
 - Découvrir l'utilisation de TouchDesigner
 
-### Image d'une réalisation dont tu es la ou le plus fier
+### Image d'une réalisation dont tu es la plus fière
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
+
 - [x] Complètement
 - [ ] Assez
 - [ ] Peu
@@ -33,7 +35,7 @@
 
 #### Décrivez pourquoi.
 
-Parce que j'ai complété l'ensemble des tâches qui m'était assignées. De plus, je me suis familiarisé avec le logiciel de TouchDesigner.
+Parce que j'ai complété l'ensemble des tâches qui m'était assignées et me suis organisée pour la semaine prochaine.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -43,17 +45,20 @@ Parce que j'ai complété l'ensemble des tâches qui m'était assignées. De plu
 - [ ] Pas tout à fait
 
 ### Défis pour la prochaine semaine
+
 Continuer à utiliser le logiciel TouchDesigner et m'améliorer.
 
 ---
 ## Semaine 2
+
 ### Résumé des réalisations effectuées
+
 - Réalisation d'un paysage visuel sur TouchDesigner
 - Correction de la préproduction
 - Réaliser le devoir de Thomas pour la semaine 3
 - Retravailler le travail 2
   
-### Image d'une réalisation dont tu es la ou le plus fier
+### Image d'une réalisation dont tu es la plus fière
 
 
 
@@ -65,7 +70,8 @@ Continuer à utiliser le logiciel TouchDesigner et m'améliorer.
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+
+Parce que j'ai complété l'ensemble des tâches qui m'était assignées. De plus, je me suis familiarisé avec le logiciel de TouchDesigner.
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
@@ -77,6 +83,7 @@ Continuer à utiliser le logiciel TouchDesigner et m'améliorer.
 
 ### Défis pour la prochaine semaine
 
+Commencer à réfléchir au mapping des 3 projections sur le mur ainsi que celle sur le sol.
 
 ---
 ## Semaine 3 
