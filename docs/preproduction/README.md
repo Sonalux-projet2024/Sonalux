@@ -46,29 +46,18 @@ Sonalux est une expérience qui se distingue par son intensité graduelle sonore
 > ![Moodboard_general](medias/moodboards/moodboard_general.png)
 
 ### Exemples de paysages visuels génératifs
-> [Circle packing - GLSL - (Touchdesigner tutorial)](https://www.youtube.com/watch?v=r3aOQMB7qiI)
+
+> [Generative Art | Particles in TouchDesigner](https://www.youtube.com/watch?v=3snFQtLRJqs&t=2s)
 
 > [Ocean of Particles . Part 1 . TouchDesigner](https://www.youtube.com/watch?v=wdAFCVKLG88)
 
-> [audio-visual 1](https://www.youtube.com/watch?v=9ehYJY_W-OA)
+> [Audio-visual 1](https://www.youtube.com/watch?v=9ehYJY_W-OA)
 
 > [Audio Visual "Particle and Rectangle"](https://www.youtube.com/watch?v=NsVl-C9X_Ho)
 
 > [Audio reactive pseudo Voronoi made with TouchDesigner](https://www.youtube.com/watch?v=TOg9AAa832w)
 
-> [Audio Visual "Particle becoming a line"](https://www.youtube.com/watch?v=GggxXKngdTA)
-
 > [Heavier Than Heaven](https://www.youtube.com/watch?v=NQzKAPyHcTY)
-
-> [Entering The Stronghold | Audio Visual Animation HD!](https://www.youtube.com/watch?v=0pXYp72dwl0)
- 
-> [particlewave (audio-reactive touchdesigner tutorial 001)](https://www.youtube.com/watch?v=ATLhkFcQZN0)
-
-> [Generative Art | Particles in TouchDesigner](https://www.youtube.com/watch?v=3snFQtLRJqs&t=2s)
- 
-> [TOUCHDESIGNER TUTORIAL 21/007 INSTANCED GENERATIVE LIQUID](https://www.youtube.com/watch?v=MrkERTy7b6k)
- 
-> [Data Entropy. TouchDesigner Tutorial](https://www.youtube.com/watch?v=E9UjSuGu_Kw)
 
 ## Moodboard sonore
 
