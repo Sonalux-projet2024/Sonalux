@@ -282,4 +282,4 @@ Proposer une expérience nouvelle dont le public cherche à découvrir et leur p
 * Expérimenter les différentes composantes associées à la boîte sonore
 
 ## Résumé du projet
-Sonalux est une installation qui dépasse les limites du réel pour proposer un monde génératif où la notion du temps n'existe plus. L'interacteur se voit projeter dans un espace virtuel où il en devient le maître par le contrôle absolu de ces pièces d'instruments. 
+Sonalux est une installation qui dépasse les limites du réel pour proposer un monde génératif où la notion du temps est repenser. L'interacteur se voit projeter dans un espace virtuel où il en devient le maître par le contrôle absolu de ces pièces d'instruments. 
