@@ -104,7 +104,7 @@ Sonalux est une expérience qui se distingue par son intensité graduelle sonore
 > ![Schéma de branchement de la boîte sonore](medias/schemas/schema_branchement_boite_sonore.png)
 
 ## Installation
-L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans les herses, il y a deux hauts-parleurs ainsi que 4 projecteurs et une Kinect accrochés afin de projeter un son ambiant, trois projections et opérer une captation de présence. Au centre de l'installation se trouve un podium qui sert à contrôler les différents paysages sonores et visuels de l'expérience. Pour ce faire, l'interacteur devra utiliser une boite qui est posée au dessus du podium et qui est composée de différentes composantes M5Stack : Atom Lite, Atom POE, Angle Unit, Key Unit, PBHub, GroveHub, M5Stack Fader Unit w/ B10K Potentiometer. Le podium sera décoré de bandes autocollantes DEL tout autour qui réagiront au fil de l'interaction.
+L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans les herses, il y a deux hauts-parleurs ainsi que 4 projecteurs et une Kinect accrochés afin de projeter un son ambiant, trois projections et opérer une captation de présence. Au centre de l'installation se trouve un podium qui sert à contrôler les différents paysages sonores et visuels de l'expérience. Pour ce faire, l'interacteur devra utiliser une boite qui est posée au dessus du podium et qui est composée de différentes composantes M5Stack : Atom Lite, Atom POE, Angle Unit, Key Unit, PBHub, GroveHub. Le podium sera décoré de bandes autocollantes DEL tout autour qui seront allumé durant le mode veille.
 
 ## Matériel de scénographie requis
 
