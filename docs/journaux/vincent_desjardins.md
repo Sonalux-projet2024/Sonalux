@@ -82,8 +82,9 @@ un autre défi auquel je n'est pas encore fait face est de trouver une liscence 
 ## Semaine 3 
 ### Résumé des réalisations effectuées
 J'ai créer une interface virtuel de notre futur interface physique. elle nous permet maintenant de pouvoir construire notre code et ne pas avancer dans le vide.
-Elle permet de controler toute l'instalation de plus elle peut aussi etre contrôler par de l'osc donc le tout est prêt a intégrer nos mmicro controleur.
+Elle permet de controler toute l'instalation de plus elle peut aussi etre contrôler par de l'osc donc le tout est prêt a intégrer nos micros controleurs.
 Sur la capture d'écran on peut voir max, car j'ai simuler des message osc, car je n'avais pas encore le micro controleurs en mains donc c'étais une solution rapide et efficace pour la programmation dans max et vcv.
+Ensuite, j'ai créé un patch touchdesigner qui englobe le projet au complet, donc gere le son, visuel et traitement de donné
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -91,6 +92,7 @@ Sur la capture d'écran on peut voir max, car j'ai simuler des message osc, car 
 
 ![screen interface plus osc](medias/vincent_desjardins/interface_numerique_et_comunication_touch_a_vcv.JPG)
 
+![meta patcher](medias/vincent_desjardins/meta_patcher2.JPG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
