@@ -43,13 +43,8 @@ Sonalux est une expérience qui se distingue par son intensité graduelle sonore
 ## Moodboard visuel
 
 ### Moodboard pour la projection au sol
-> ![Moodboard pour le mode veille](medias/moodboards/moodboard_mode_veille.png)
-### Moodboard pour le tableau 01
-> ![Moodboard pour le tableau 01](medias/moodboards/moodboard_tableau01.png)
-### Moodboard pour le tableau 02
-> ![Moodboard pour le tableau 02](medias/moodboards/moodboard_tableau02.png)
-### Moodboard pour le tableau 03
-> ![Moodboard pour le tableau 03](medias/moodboards/moodboard_tableau03(1).png)
+> ![Moodboard_general](medias/moodboards/moodboard_general.png)
+
 ### Exemples de paysages visuels génératifs
 > [Circle packing - GLSL - (Touchdesigner tutorial)](https://www.youtube.com/watch?v=r3aOQMB7qiI)
 
