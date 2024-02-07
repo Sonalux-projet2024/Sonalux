@@ -1,4 +1,4 @@
-# Productionn du projet *Sonalux*
+# Production du projet *Sonalux*
 
 Dans ce dossier, on retrouve:
 
