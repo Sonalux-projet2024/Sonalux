@@ -8,6 +8,7 @@
     - [Synopsis](#Synopsis)
     - [Moodboard visuel](#Moodboard-visuel)
     - [Moodboard sonore](#Moodboard-sonore)
+    - [Scénarimage](#Scénarimage)
 2. [Contenu multimédia à intégrer](#Contenu-multimédia-à-intégrer)
     - [Inventaire du contenu multimédia](#Inventaire-du-contenu-multimédia)
     - [Univers artistique des éléments](#Univers-artistique-des-éléments-centraux)
@@ -70,6 +71,17 @@ Sonalux est une expérience qui se distingue par son intensité graduelle sonore
 > [Mike Dean | Three Jewels](https://www.youtube.com/watch?v=y3QgXLLX_Rs)
 
 > [Aaron Batzdorff - TikTok](https://www.tiktok.com/@aaronbatzdorff/video/7256329924485582122)
+
+## Scénarimage
+> ![Image du scénarimage du mode veille](medias/moodboards/image_scenarimage_veille.png)
+
+> ![Image du scénarimage de la scène 01](medias/moodboards/image_scenarimage_scene_01.png)
+
+> ![Image du scénarimage de la transition](medias/moodboards/image_scenarimage_transition.png)
+
+> ![Image du scénarimage de la scène 02](medias/moodboards/image_scenarimage_scene_02.png)
+
+> ![Image du scénarimage du retour au mode veille](medias/moodboards/image_scenarimage_retourne.png)
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
