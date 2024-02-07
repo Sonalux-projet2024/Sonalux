@@ -35,10 +35,10 @@
 # Intention ou concept
 
 ## Intention de départ
-Par ce projet, nous souhaitons pousser l'interacteur à se déchaîner de toutes de forme de contrôle pour laisser place à la création complète d'un monde immersif et interactif qui mène vers une expérience hyperstimulante. De plus, le but de Sonalux est de repenser les idées préconçues d'un studio de musique dans un esthétique psychédélique qui permet de rendre l'installation accessible pour tout le monde. 
+Par ce projet, nous souhaitons pousser l'interacteur à se déchaîner de toutes de forme de contrôle pour laisser place à la création complète d'un monde immersif et interactif qui mène vers une expérience hyperstimulante. De plus, le but de Sonalux est de repenser les idées préconçues d'un studio de musique dans un esthétique d'art génératif qui permet de rendre l'installation accessible pour tout le monde. 
 
 ## Synopsis
-Sonalux est une expérience divisée en 3 tableaux qui se distinguent par leur intensité graduelle sonore et visuelle ainsi que leur environnement qui devient davantage chaotique et explosif de couleurs et de sons. Le public est appelé à découvrir les particularités des différents tableaux qui composent le projet en explorant les diverses composantes de la boîte.
+Sonalux est une expérience qui se distingue par son intensité graduelle sonore et visuelle ainsi que son environnement qui devient davantage chaotique et explosif de couleurs et de sons. Le public est appelé à découvrir les particularités de l'expérience en explorant les diverses composantes de la boîte.
 
 ## Moodboard visuel
 
@@ -90,8 +90,8 @@ Sonalux est une expérience divisée en 3 tableaux qui se distinguent par leur i
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
-- 4 paysages visuels génératifs (TouchDesigner)
-- 4 paysages sonores (VCV Rack)
+- 3 paysages visuels génératifs (TouchDesigner)
+- 3 paysages sonores (VCV Rack)
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
@@ -128,7 +128,7 @@ L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans 
     * Kinect v1
 
 * Lumière
-    * Bandes autocollantes LED
+    * Bandes autocollantes DEL
 
 * Électricité
     * 4 cordon IEC (pour l'alimentation des haut-parleurs)
@@ -146,11 +146,10 @@ L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans 
 * M5Stack
     * 2 Atom Lite
     * 2 Atom POE
-    * 6 Angle Unit
+    * 5 Angle Unit
     * 4 Key Unit
     * 2 PBHub
     * 1 GroveHub
-    * 1 M5Stack Fader Unit w/ B10K Potentiometer 
       
 * Autre
     * Boîte sonore (à créer)
@@ -173,9 +172,6 @@ Key Unit (Toggle) :
 * Mélodie
 * Kick
 * Percussion
-  
-Fader :
-* Volume
   
 ## Logiciels requis
 
@@ -252,7 +248,7 @@ Explorateur
 L’interacteur est amené à découvrir l’expérience en entrant dans la zone délimitée qui offre au sol une projection impactée par les déplacements de l’interacteur. Ce dernier est ensuite poussé à se diriger vers le podium pour manipuler de manière tactile les diverses composantes mises à sa disposition et ainsi créer sa propre composition sonore et visuelle. 
 
 ### Esthétique
-L’esthétique psychédélique des paysages sonores et visuels obligent l’interacteur à se déchaîner, car il n’a aucune référence sur ce qu’il voit et ce qu’il entend. Il découvre un monde sans contraintes inconnu du monde présent.
+L’esthétique d'art génératif des paysages sonores et visuels obligent l’interacteur à se déchaîner, car il n’a aucune référence sur ce qu’il voit et ce qu’il entend. Il découvre un monde sans contraintes inconnu du monde présent.
 
 ### Espace
 L’installation se présente comme une enceinte afin de mettre l’accent sur l’aspect immersif. De plus, l’espace permet d’accueillir plusieurs utilisateurs afin qu’ils découvrent l'espace virtuel et voyagent ensemble dans celui-ci menant vers une toute nouvelle expérience représentée comme étant un voyage astral. 
@@ -266,7 +262,7 @@ Le temps se présente sous la forme de ***kairos***, abandonnant complètement s
 * Hyperstimulation
 
 ### Pourquoi ?
-Nous souhaitons pousser l'intéracteur à se déchaîner de toutes de forme de contrôle pour laisser place à la céation complète d'un monde immersif et interactif.
+Nous souhaitons pousser l'intéracteur à se déchaîner de toutes formes de contrôle pour laisser place à la création complète d'un monde immersif et interactif.
 
 ### Quelles questions votre projet met-il dans l’esprit de l’interacteur ?
 
@@ -284,49 +280,22 @@ Proposer une expérience nouvelle dont le public cherche à découvrir et leur p
 * Se déplacer
 * Peser
 * Tourner
-* Glisser
-* Écouter
+* Enfiler
 
 ### Tous les objets sur lesquels chaque verbe peut agir et comment ils le font ?
-* Sol
-* Key Unit
-* Encoder
-* Fader
-* Casque d'écouteurs
+* L'interacteur poursa se déplacer dans l'installation
+* L'interacteur pourra peser sur les Key Unit
+* L'interacteur pourra tourner les potentiomètres 
+* L'interacteur pourra enfiler les casque d'écouteurs
 
 ### Plusieurs actions émergentes que vous aimeriez que vos interacteurs effectuent.
-#### Modifications sonores
-Key Unit (Toggle) :
-* Bass lignes
-* Hat
-* Kick
-* Snare
-  
-Encoder :
-* Mélodie qui change de gamme
-* Reverb
-* Dry\Wet Reverb
-* Changement de Noise (White, Brown, Red, etc.)
-* Changement de Wave form.
-* Attack
-* Release
-* Timbre\Harmonic
-  
-Fader :
-* Changement de vitesse\Tempo
-* Volume
-  
-#### Modifications visuelles
-* Projection au sol suit les déplacements de l'interacteur
-* Projections au mur modifiées par les actions commises par l'interacteur aux composantes
-
-#### Modifications lumineuses 
-* Jeu des lumières impacté par les actions commises par l'interacteur aux composantes
-* Couleur des lumières influencée par les actions commises par l'interacteur aux composantes
+* Transitionner de l'introduction à l'expérience
+* Modification de la projection
+* Modification du son  
 
 ### Toutes les façons que les interacteurs peuvent faire progresser l'expérience.
 * Se déplacer à travers l'environnement délimitée pour le projet
 * Expérimenter les différentes composantes associées à la boîte sonore
 
 ## Résumé du projet
-Sonalux est une installation qui dépasse les limites du réel pour proposer un monde psychédélique où la notion du temps n'existe plus. L'interacteur se voit projeter dans un espace virtuel où il en devient le maître par le contrôle absolu de ces pièces d'instruments. 
+Sonalux est une installation qui dépasse les limites du réel pour proposer un monde génératif où la notion du temps n'existe plus. L'interacteur se voit projeter dans un espace virtuel où il en devient le maître par le contrôle absolu de ces pièces d'instruments. 
