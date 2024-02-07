@@ -26,6 +26,8 @@
 
 ### Image d'une réalisation dont tu es la plus fière
 
+![Image du moodboard visuel pour le mode veille](medias/ghita_alaoui/image_realisation_fiere_s1.png)
+
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 
 - [x] Complètement
