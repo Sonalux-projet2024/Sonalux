@@ -59,6 +59,7 @@ Continuer à utiliser le logiciel TouchDesigner et m'améliorer.
 - Correction de la préproduction
 - Réaliser le devoir de Thomas pour la semaine 3
 - Retravailler le travail 2
+- Refaire le moodboard
   
 ### Image d'une réalisation dont tu es la plus fière
 
