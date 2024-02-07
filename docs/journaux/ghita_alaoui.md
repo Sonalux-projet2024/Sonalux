@@ -62,7 +62,7 @@ Continuer à utiliser le logiciel TouchDesigner et m'améliorer.
   
 ### Image d'une réalisation dont tu es la plus fière
 
-
+![Image d'un_paysage_touchdesigner](medias/ghita_alaoui/image_realisation_fiere_s2.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
