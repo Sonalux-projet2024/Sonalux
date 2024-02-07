@@ -249,7 +249,7 @@ L’esthétique d'art génératif des paysages sonores et visuels obligent l’i
 L’installation se présente comme une enceinte afin de mettre l’accent sur l’aspect immersif. De plus, l’espace permet d’accueillir plusieurs utilisateurs afin qu’ils découvrent l'espace virtuel et voyagent ensemble dans celui-ci menant vers une toute nouvelle expérience représentée comme étant un voyage astral. 
 
 ### Temps
-Le temps se présente sous la forme de ***kairos***, abandonnant complètement son autre forme du nom de ***chronos***. La notion de temps devient subjective, car on se perd en plongeant dans le plan de la conscience où le temps s'écoule différemment pour les utilisateurs.
+Le temps se divise en deux dans notre projet, à commencer avec ***chronos*** proposé par l’évolution graduelle vers un monde plus euphorique, il rappel à l’utilisateur dans quel tableau il se situe, il est objectif. Puis, il y a ***kairos*** qui est subjectif comme l’expérience vécue par les utilisateurs qui est propre à chacun. Lorsque l'interacteur quitte, le projet revient à l'état de veille comme lorsqu'il rentre, il en sort. Sonalux présente une boucle.
 
 ### Quelles émotions voulez-vous faire vivre à l’interacteur ?
 
