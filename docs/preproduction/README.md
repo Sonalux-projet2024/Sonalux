@@ -287,7 +287,8 @@ Proposer une expérience nouvelle dont le public cherche à découvrir et leur p
 ### Plusieurs actions émergentes que vous aimeriez que vos interacteurs effectuent.
 * Transitionner de l'introduction à l'expérience
 * Modification de la projection
-* Modification du son  
+* Modification du son pour créer ses propre arangement
+* Vivre un moment de partage de curiosité et créativité avec un autre interacteur
 
 ### Toutes les façons que les interacteurs peuvent faire progresser l'expérience.
 * Se déplacer à travers l'environnement délimitée pour le projet
