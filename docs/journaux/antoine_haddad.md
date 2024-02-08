@@ -1,5 +1,5 @@
 # Journal d'Antoine Haddad
-![Antoine](medias/antoine_haddad/antoine.png)
+![Antoine](../web/medias/participants/photo_antoine.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
