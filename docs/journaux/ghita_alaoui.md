@@ -1,5 +1,5 @@
 # Journal de Ghita Alaoui
-![portrait du participant ](medias/ghita_alaoui/photo_ghita.png)
+![portrait du participant ](../web/medias/participants/photo_ghita.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
