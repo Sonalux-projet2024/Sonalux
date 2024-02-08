@@ -1,4 +1,4 @@
-# Journal de Vincent
+# Journal de Vincent Desjardins
 ![portrait du participant ](medias/vincent_desjardins/photo_linkedin-10.jpg)
 
 * [Semaine 1](#semaine-1)
