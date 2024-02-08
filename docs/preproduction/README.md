@@ -276,16 +276,16 @@ Proposer une expérience nouvelle dont le public cherche à découvrir et leur p
 * Enfiler
 
 ### Tous les objets sur lesquels chaque verbe peut agir et comment ils le font ?
-* L'interacteur poursa se déplacer dans l'installation
+* L'interacteur pourra se déplacer dans l'installation
 * L'interacteur pourra peser sur les Key Unit
 * L'interacteur pourra tourner les potentiomètres 
-* L'interacteur pourra enfiler les casque d'écouteurs
+* L'interacteur pourra enfiler les casques d'écouteurs
 
 ### Plusieurs actions émergentes que vous aimeriez que vos interacteurs effectuent.
 * Transitionner de l'introduction à l'expérience
 * Modification de la projection
-* Modification du son pour créer ses propre arangement
-* Vivre un moment de partage de curiosité et créativité avec un autre interacteur
+* Modification du son pour créer ses propres arrangements
+* Vivre un moment de partage de curiosité et de créativité avec un autre interacteur
 
 ### Toutes les façons que les interacteurs peuvent faire progresser l'expérience.
 * Se déplacer à travers l'environnement délimitée pour le projet
