@@ -1,4 +1,4 @@
-# Journal de "Participant 2"
+# Journal de Vincent
 ![portrait du participant ](medias/vincent_desjardins/photo_linkedin-10.jpg)
 
 * [Semaine 1](#semaine-1)
