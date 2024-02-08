@@ -1,5 +1,5 @@
 # Journal de Vincent Desjardins
-![portrait du participant ](medias/vincent_desjardins/photo_linkedin-10.jpg)
+![portrait du participant ](../web/medias/participants/photo_vincent.jpg)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
