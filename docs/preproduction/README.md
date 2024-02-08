@@ -87,7 +87,7 @@ Sonalux est une expérience qui se distingue par son intensité graduelle sonore
 ## Inventaire du contenu multimédia
 
 - 3 paysages visuels génératifs (TouchDesigner)
-- 3 paysages sonores (VCV Rack)
+- 1 paysages sonores (VCV Rack)
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
