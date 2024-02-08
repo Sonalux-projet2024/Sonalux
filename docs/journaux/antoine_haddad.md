@@ -1,5 +1,5 @@
 # Journal d'Antoine.H
-![Antoine](medias/Antoine/antoine.png)
+![Antoine](medias/antoine_haddad/antoine.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
@@ -21,8 +21,8 @@
 - Schéma et prototype du podium
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![schema_plantation](medias/Antoine/schema_plantation.png)
-![prototype_podium](medias/Antoine/prototype_podium.png)
+![schema_plantation](medias/antoine_haddad/schema_plantation.png)
+![prototype_podium](medias/antoine_haddad/prototype_podium.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et ou objectifs que je m'étais fixés pour cette semaine?	
 - [X] Complètement
@@ -54,8 +54,8 @@ De demander à mon gérant pour l'utilisation du bois pour l'assemblage du podiu
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![logo](medias/Antoine/logo.png)
-![podium](medias/Antoine/podium.png)
+![logo](medias/antoine_haddad/logo.png)
+![podium](medias/antoine_haddad/podium.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
