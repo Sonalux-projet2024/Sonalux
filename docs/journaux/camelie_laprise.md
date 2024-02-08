@@ -1,5 +1,5 @@
 # Journal de Camélie Laprise
-![portrait du participant ](medias/camelie_laprise/photo_camelie.png)
+![portrait du participant ](../web/medias/participants/photo_camelie.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
