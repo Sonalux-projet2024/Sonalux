@@ -1,4 +1,4 @@
-# Journal d'Antoine.H
+# Journal d'Antoine Haddad
 ![Antoine](medias/antoine_haddad/antoine.png)
 
 * [Semaine 1](#semaine-1)
