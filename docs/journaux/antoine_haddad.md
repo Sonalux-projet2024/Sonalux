@@ -80,39 +80,46 @@ Me re-habituer à Arduino et l'utilisation du Atom5 et potentiellement réussi �
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
+- Terminer la programmation des modules électroniques
+- Créer un maquette pouvant tenir les modules électroniques de façon stable
+- Modifier une dernière fois le logo et la bannière de l'équipe
+- Commencer l'installation du projet
+- Finalisation du schéma du podium
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![maquette](medias/antoine_haddad/maquette.png)
+![schema_podium](medias/antoine_haddad/schema_podium.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+On a eu des complications au niveau de l'installation des projecteurs. L'angle du projecteur, sa hauteur et l'emplacement des barreaux et plafond ont provoqué des défauts sur le projections au mur.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Il va falloir changement le nombre de projecteurs attacher en hauteur. Nous pensons placer 2 des 4 projecteurs à terre afin de libérer de l'espace aux autres projecteurs. Nous pensons aussi à complètement retirer le 4e projecteur, celui qui projète au sol, du projet.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
-- [ ] Assez
+- [] Complètement
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Étant donné des problème d'installations, nous allons passer plus de temps que prévu sur l'installation.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Nous allons nous rencontrer plus fréquemment hors cours pour poursuivre l'installation et rattrapper le temps perdu. 
 
 ### Défis pour la prochaine semaine
+Confirmer avec Guillaume et Thomas des modification concerntant notre installation. Retravailler le schéma de plantation et discuté des bandes DEL.
 
 ---
 ## Semaine 4
