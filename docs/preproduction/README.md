@@ -104,7 +104,7 @@ Sonalux est une expérience qui se distingue par son intensité graduelle sonore
 > ![Schéma de branchement de la boîte sonore](medias/schemas/schema_branchement_boite_sonore.png)
 
 ## Installation
-L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans les herses, il y a deux hauts-parleurs ainsi que 4 projecteurs et une Kinect accrochés afin de projeter un son ambiant, trois projections et opérer une captation de présence. Au centre de l'installation se trouve un podium qui sert à contrôler les différents paysages sonores et visuels de l'expérience. Pour ce faire, l'interacteur devra utiliser une boite qui est posée au dessus du podium et qui est composée de différentes composantes M5Stack : Atom Lite, Atom POE, Angle Unit, Key Unit, PBHub, GroveHub. Le podium sera décoré de bandes autocollantes DEL tout autour qui seront allumé durant le mode veille.
+L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans les herses, il y a deux hauts-parleurs ainsi que 3 projecteurs et une Kinect accrochés afin de projeter un son ambiant, trois projections et opérer une captation de présence. Au centre de l'installation se trouve un podium qui sert à contrôler les différents paysages sonores et visuels de l'expérience. Pour ce faire, l'interacteur devra utiliser une boite qui est posée au dessus du podium et qui est composée de différentes composantes M5Stack : Atom Lite, Atom POE, Angle Unit, Key Unit, PBHub, GroveHub. Le podium sera décoré de tubes DEL tout autour qui seront synchronisés avec l'expérience.
 
 ## Matériel de scénographie requis
 
@@ -120,14 +120,14 @@ L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans 
     * Carte de son
 
 * Vidéo
-    * 4 projecteurs vidéo lentille grand angle 0.5
+    * 3 projecteurs vidéo lentille grand angle 0.5
     * Kinect v1
 
 * Lumière
-    * Bandes autocollantes DEL
+    * Tubes DEL
 
 * Électricité
-    * 4 cordon IEC (pour l'alimentation des haut-parleurs)
+    * 4 cordons IEC (pour l'alimentation des haut-parleurs)
     * 2 extentions 3 fiches et 3 conducteurs 
     * 2 multiprises
 
