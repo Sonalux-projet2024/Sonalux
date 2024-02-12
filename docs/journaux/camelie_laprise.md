@@ -135,6 +135,7 @@ Nous allons finir l'installation des projecteurs pour la semaine 4.
 
 ### Défis pour la prochaine semaine
 Lier chaque composante sur le podium à un paramètre dans le visuel de la scène 01.
+
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
