@@ -44,7 +44,7 @@ Sonalux est une expérience qui se distingue par son intensité graduelle sonore
 ## Moodboard visuel
 
 ### Moodboard général
-> ![Moodboard_general](medias/moodboards/moodboard_general.png)
+> ![Moodboard_général](medias/moodboards/moodboard_general.png)
 
 ### Exemples de paysages visuels génératifs
 
