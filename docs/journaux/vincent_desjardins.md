@@ -97,31 +97,27 @@ Ensuite, j'ai créé un patch touchdesigner qui englobe le projet au complet, do
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ j'ai bien avancé le meta-patcher qui va servir à acceuillir et faire vivre le projet complet. dans ce patcher il y a plusieurs composants, donc les 2 paysages visuels generatifs, le controle de l'experience(timeline interactif), interface virtuel et connection a l'interface physique, ainsi que le traitement de donné. j'ai aussi eu l'aide de Johao Marin Gagné pour le mapping des strip led dans touchdesigner. donc maintenant il est possible de visualiser toute l'instalation de facons virtuel sur un ecran, ce que je veux dire ses que sur un ecran un peut recr.er l'environement de l'Instalation, les 3 projections, les leds et le son.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+il manque a bien ajuster la programtation de la timeline, car le systeme de trigger avec la timeline est bugger parfois donc, je dois trouver quand il bug et pourquoi 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
-
+terminaliser le timeline du projet pour qu'il soit completement interactf et que la timeline fonctionne bien.
+De plus on doit finaliser l'instalation dans l'espace des projeteur, car en équipe nous avons essayer vendredi de placer les projecteurs, mais nous avons eu des problèmes a obtenir le résultas que nous avions imaginer. d'avoir les 3 projecteurs au plafond au milieu de l'instalation, mais cela ne semble pas possible,car il n'y a pas asser d'espace pour qu'Il ne s'empiete pas un sur l'autre.
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
