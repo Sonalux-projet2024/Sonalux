@@ -148,8 +148,8 @@ L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans 
     * 1 GroveHub
       
 * Autre
-    * Boîte sonore (à créer)
-    * Podium (à créer)
+    * Boîte sonore 
+    * Podium 
 
 ## Rôle des composantes de M5Stack
 
@@ -194,32 +194,32 @@ Key Unit (Toggle) :
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
-Construire le podium et la boîte de sons et intégrer toutes ces différentes composantes servant à créer du son (200$)
+License TouchDesigner (300$)
 
 ## Rôles et responsabilités des membres de l'équipe
 
 **Vincent Desjardins**
-- Coordination technique et artistique du projet
 - Création du module d'interprétation des données (Kinect)
-- Programmation du patch touchdesigner de génération vidéo
-- creation du module sonore generatif et interactif dans vcv rack
+- Programmation du patch TouchDesigner de génération vidéo
+- Création du module sonore génératif et interactif dans VCV Rack
+- Installation de l'équipement dans l'espace physique
 
 **Camélie Laprise**
 - Coordination technique du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe)
-- Création des paysages sonores
-- Créations de visuels
+- Création des paysages visuels dans TouchDesigner
 - Installation de l'équipement dans l'espace physique
+- Organisation du github et du site web
 
 **Ghita Alaoui**
-- Création de visuels
-- Création des paysages sonores
+- Création des paysages visuels dans TouchDesigner
 - Mapping
 - Installation de l'équipement dans l'espace physique
+- Organisation du github 
 
 **Antoine Haddad**
 - Installation de l'équipement dans l'espace physique
 - Coordination des projections/projecteurs
-- Création du boîtier interactif au milieu de l'installation
+- Création du podium et du boîtier interactif au milieu de l'installation
 
 # Direction artistique 
 
