@@ -41,9 +41,17 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 
 Tout d'abord, comme prévu, plusieurs changements ont été apportés, notamment au synopsis. Nous avons également réalisé un storyboard nous menant vers une nouvelle esthétique qui respecte les paysages visuels choisis. Aussi, nous avons fait le devoir donné par Thomas ce jeudi à remettre le jeudi suivant, donc à la semaine 4, en plus d'amener les corrections mentionnées pour le devoir 02.
 
+![Image de la réalisation du paysage visuel et du scénarimage](medias/collectif/image_visuel_scenarimage.png)
+
 Par la suite, nous avons créé une interface virtuelle représentant l'interface physique que nous avons conçu. Divers aspects liés à la progression de l'installation ont été configurés. 
 
+![Image de la réalisation de l'interface physique](medias/collectif/image_realisation_interface_physique.png)
+
+![Image de l'interface physique](medias/collectif/image_interface_physique.png)
+
 Enfin, nous avons commencé à installer les projecteurs et les haut-parleurs dans les herses. Malheureusement, certaines difficultés se sont présentées à nous au cours de l'installation des projecteurs. 
+
+![Image de l'installation](medias/collectif/image_installation_s3.png)
 
 On a bien hâte de voir le projet se concrétiser davantage dans les lieux physiques. À suivre
 
