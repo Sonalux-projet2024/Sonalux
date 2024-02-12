@@ -45,7 +45,7 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 
 Cette semaine a été parsemée de changements et de progressions.
 
-Tout d'abord, comme prévu, plusieurs changements ont été apportés, notamment au synopsis. Nous avons également réalisé un storyboard nous menant vers une nouvelle esthétique qui respecte les paysages visuels choisis. 
+Tout d'abord, comme prévu, plusieurs changements ont été apportés, notamment au synopsis. Nous avons également réalisé un storyboard nous menant vers une nouvelle esthétique qui respecte les paysages visuels choisis. Aussi, nous avons fait le devoir donné par Thomas ce jeudi à remettre le jeudi suivant, donc à la semaine 4, en plus d'amener les corrections mentionnées pour le devoir 02.
 
 Par la suite, nous avons créé une interface virtuelle représentant l'interface physique que nous avons conçu. Divers aspects liés à la progression de l'installation ont été configurés. 
 
