@@ -118,7 +118,7 @@ Projeter trois projections au moyen de trois projecteurs sur les trois murs util
 Parce que je n'ai pas pu projeter trois projections au moyen de trois projecteurs sur les trois murs utilisés dû aux problèmes rencontrés lors de l'installation des projecteurs.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Je vais retenter ce défi cette semaine, car d'ici là les projecteurs seront tous installés.
+Je vais retenter ce défi à la semaine 4, car d'ici là les projecteurs seront tous installés.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
