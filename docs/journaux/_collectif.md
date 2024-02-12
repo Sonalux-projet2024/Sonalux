@@ -41,6 +41,15 @@ Enfin, nous avons filmé la vidéo d'intention du projet et nous avons détermin
 On a bien hâte de voir le projet se concrétiser davantage dans les lieux physiques. À suivre
 
 ## Semaine 3
+> Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
+
+Cette semaine a été parsemée de changements et de progressions.
+
+Tout d'abord, comme prévu, plusieurs changements ont été apportés, notamment au synopsis. Nous avons également réalisé un storyboard nous menant vers une nouvelle esthétique qui respecte les paysages visuels choisis. 
+
+Par la suite, nous avons créé une interface virtuelle représentant l'interface physique que nous avons conçu. Divers aspects liés à la progression de l'installation ont été configurés. 
+
+Enfin, nous avons commencé à installer les projecteurs et les haut-parleurs dans les herses. Malheureusement, certaines difficultés se sont présentées à nous au cours de l'installation des projecteurs. 
 
 ## Semaine 4
 
