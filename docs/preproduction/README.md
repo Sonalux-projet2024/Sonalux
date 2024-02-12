@@ -238,7 +238,7 @@ Sonalux
 Explorateur
 
 ### Comportement
-L’interacteur est amené à découvrir l’expérience en entrant dans la zone délimitée qui offre au sol une projection impactée par les déplacements de l’interacteur. Ce dernier est ensuite poussé à se diriger vers le podium pour manipuler de manière tactile les diverses composantes mises à sa disposition et ainsi créer sa propre composition sonore et visuelle. 
+L’interacteur est amené à découvrir l’expérience en se dirigeant vers le podium situé dans la zone délimitée pour manipuler de manière tactile les diverses composantes mises à sa disposition et ainsi créer sa propre composition sonore et visuelle. 
 
 ### Esthétique
 L’esthétique d'art génératif des paysages sonores et visuels obligent l’interacteur à se déchaîner, car il n’a aucune référence sur ce qu’il voit et ce qu’il entend. Il découvre un monde sans contraintes inconnu du monde présent.
@@ -265,18 +265,16 @@ Nous souhaitons pousser l'intéracteur à se déchaîner de toutes formes de con
 * Est-ce un bon moyen de sortir de sa zone de confort ?
 
 ### Que devrez-vous faire pour qu’il ait envie de réponde à ces questions ?
-Proposer une expérience nouvelle dont le public cherche à découvrir et leur permettant de s’amuser sans penser et réfléchir aux répercussions de leurs gestes les poussant davantage vers une créativité qui leur est unique. 
+Proposer une expérience nouvelle dont le public cherche à découvrir et leur permettant de s’amuser sans penser et sans réfléchir aux répercussions de leurs gestes les poussant davantage vers une créativité qui leur est unique. 
 
 ## Semaine 2
 
 ### Tous les verbes disponibles à vos interacteurs. 
-* Se déplacer
 * Peser
 * Tourner
 * Enfiler
 
 ### Tous les objets sur lesquels chaque verbe peut agir et comment ils le font ?
-* L'interacteur pourra se déplacer dans l'installation
 * L'interacteur pourra peser sur les Key Unit
 * L'interacteur pourra tourner les potentiomètres 
 * L'interacteur pourra enfiler les casques d'écouteurs
@@ -288,7 +286,6 @@ Proposer une expérience nouvelle dont le public cherche à découvrir et leur p
 * Vivre un moment de partage de curiosité et de créativité avec un autre interacteur
 
 ### Toutes les façons que les interacteurs peuvent faire progresser l'expérience.
-* Se déplacer à travers l'environnement délimitée pour le projet
 * Expérimenter les différentes composantes associées à la boîte sonore
 
 ## Résumé du projet
