@@ -105,7 +105,15 @@ Projeter trois projections au moyen de trois projecteurs sur les trois murs util
 - Inclure les photos de chaque membre.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![Image du scénarimage du mode veille](medias/camelie_laprise/image_scenarimage_veille.png)
 
+![Image du scénarimage de la scène 01](medias/camelie_laprise/image_scenarimage_scene_01.png)
+
+![Image du scénarimage de la transition](medias/camelie_laprise/image_scenarimage_transition.png)
+
+![Image du scénarimage de la scène 02](medias/camelie_laprise/image_scenarimage_scene_02.png)
+
+![Image du scénarimage du retour au mode veille](medias/camelie_laprise/image_scenarimage_retourne.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
