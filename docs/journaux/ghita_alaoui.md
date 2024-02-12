@@ -97,6 +97,7 @@ Commencer à réfléchir au mapping des 3 projections sur le mur ainsi que celle
 - Réalisation du paysage visuel du sol
 - Mettre à jour la préproduction
 - Mettre à jour les devoirs artistiques pour le cours de Thomas
+- Refaire le moodboard
 
 ### Image d'une réalisation dont tu es la plus fière
 
