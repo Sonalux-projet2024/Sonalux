@@ -126,6 +126,11 @@ Commencer à réfléchir au mapping des 3 projections sur le mur ainsi que celle
 
 ### Résumé des réalisations effectuées
 
+- Refaire le moodboard
+- Retravailler le powerpoint d'intention
+- Peinturer le podium
+- Travailler sur le lien entre le visuel et les composantes tactiles
+
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
