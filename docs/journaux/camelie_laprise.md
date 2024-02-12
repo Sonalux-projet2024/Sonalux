@@ -56,12 +56,13 @@ Apprendre et maîtriser le logiciel TouchDesigner.
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-- Produire les paysages visuels dans TouchDesigner
-- Faire le devoir de Thomas à remettre pour la semaine 3
-- Refaire les moodbards selon l'esthétique choisie
-- Retravailler la préproduction 
-- Corriger le devoir 01 de Thomas
-  
+- Produire les paysages visuels dans TouchDesigner.
+- Faire le devoir de Thomas à remettre pour la semaine 3.
+- Refaire les moodbards selon l'esthétique choisie.
+- Retravailler la préproduction.
+- Corriger le devoir 01 de Thomas.
+- Remplir le journal collectif.
+
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Image d'un paysage visuel génératif créé](medias/camelie_laprise/image_realisation_fiere_s2.png)
 
@@ -97,40 +98,43 @@ Projeter trois projections au moyen de trois projecteurs sur les trois murs util
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+- Faire le storyboard.
+- Trouver les images pour le moodboard général.
+- Trouver la typographie.
+- Remplir le journal collectif.
+- Inclure les photos de chaque membre.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Parce que je n'ai pas pu projeter trois projections au moyen de trois projecteurs sur les trois murs utilisés dû aux problèmes rencontrés lors de l'installation des projecteurs.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais retenter ce défi cette semaine, car d'ici là les projecteurs seront tous installés.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Nous n'avons pas réussi à installer l'ensemble des projecteurs. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Nous allons finir l'installation des projecteurs pour la semaine 4.
 
 ### Défis pour la prochaine semaine
-
+Lier chaque composante sur le podium à un paramètre dans le visuel de la scène 01.
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
