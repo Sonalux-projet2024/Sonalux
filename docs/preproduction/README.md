@@ -149,7 +149,8 @@ L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans 
       
 * Autre
     * Boîte sonore 
-    * Podium 
+    * Podium
+    * 4 crochets 
 
 ## Rôle des composantes de M5Stack
 
