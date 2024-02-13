@@ -96,7 +96,7 @@ Sonalux est une expérience qui se distingue par son intensité graduelle sonore
 > ![Schéma de plantation](medias/schemas/schema_plantation.png)
 
 ### Schéma du podium
-> ![Image du podium sous différents angles](medias/podium/schema_podium_large.png)
+> ![Image du podium sous différents angles](medias/podium/schema_podium.png)
 
 ### Schéma de branchement de l'installation
 > ![Schéma de branchement de l'installation](medias/schemas/schema_branchement.png)
