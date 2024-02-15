@@ -147,7 +147,11 @@ Lier chaque composante sur le podium à un paramètre dans le visuel de la scèn
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+- Aider durant l'installation.
+- Acheter le matériel nécessaire.
+- Ajouter la typographie choisie dans le fichier TouchDesigner.
+- Arranger la couverture.
+- Remplir le journal collectif. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -155,7 +159,7 @@ Lier chaque composante sur le podium à un paramètre dans le visuel de la scèn
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -168,7 +172,7 @@ Lier chaque composante sur le podium à un paramètre dans le visuel de la scèn
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
