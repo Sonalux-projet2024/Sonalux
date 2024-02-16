@@ -125,6 +125,8 @@ Confirmer avec Guillaume et Thomas des modification concerntant notre installati
 ## Semaine 4
 ### Résumé des réalisations effectuées
 - Poursuite de l'installation du projet.
+- Retravailler le schéma de plantation.
+- Retravailler le schéma du podium.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![installation1](medias/antoine_haddad/installation1.png)
