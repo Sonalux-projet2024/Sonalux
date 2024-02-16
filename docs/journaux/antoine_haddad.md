@@ -127,6 +127,7 @@ Confirmer avec Guillaume et Thomas des modification concerntant notre installati
 - Poursuite de l'installation du projet.
 - Retravailler le schéma de plantation.
 - Retravailler le schéma du podium.
+- Ajouter le code aux Atom5 afin qu'ils puisse fonctionner par UDP.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![installation1](medias/antoine_haddad/installation1.png)
