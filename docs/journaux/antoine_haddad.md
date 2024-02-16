@@ -124,40 +124,36 @@ Confirmer avec Guillaume et Thomas des modification concerntant notre installati
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+- Poursuite de l'installation du projet.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![installation1](medias/antoine_haddad/installation1.png)
+![installation2](medias/antoine_haddad/installation2.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
-- [ ] Assez
+- [X] Complètement
+- [] Assez
 - [ ] Peu
 - [ ] Pas du tout
-
-#### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+ Normalement, c'était pas dans les temps voulu à cause de complication des projections sur les murs. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Mais nous nous sommes rattrapé en temps voulu avec plus de rencontre hors cours.
 
 ### Défis pour la prochaine semaine
-
+- Cacher les lumières blanches des projecteurs avec des morceaux de cartons.
+- Percer le panneau au-dessus du podium afin d'installer les modules électroniques. 
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
