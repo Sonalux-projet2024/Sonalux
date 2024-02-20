@@ -64,9 +64,9 @@ Tout d'abord, comme prévu, nous avons poursuivi l'installation des projecteurs 
 
 Par la suite, nous avons officialisé notre logo et notre bannière suite aux commentaires reçus par Thomas et nous avons aussi modifié la vidéo d'intention pour s'assurer qu'elle soit à jour avec les changements que nous avons apportés au projet. 
 
-![Image du logo officiel de Sonalux](medias/collectif/image_logo_officiel.png)
+![Image du logo officiel de Sonalux](../medias/couverture.png)
 
-![Image de la bannière officielle de Sonalux](medias/collectif/image_banniere_officielle.png)
+![Image de la bannière officielle de Sonalux](../medias/web/banniere_page_projet.png)
 
 Enfin, nous avons continué d'avancer sur la ligne du temps sur laquelle progresse l'expérience. 
 
