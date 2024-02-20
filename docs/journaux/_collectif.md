@@ -39,7 +39,7 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 ## Semaine 3
 > Cette semaine a été parsemée de changements et de progressions.
 
-Tout d'abord, comme prévu, plusieurs changements ont été apportés, notamment au synopsis. Nous avons également réalisé un storyboard nous menant vers une nouvelle esthétique qui respecte les paysages visuels choisis. Aussi, nous avons fait le devoir donné par Thomas ce jeudi à remettre le jeudi suivant, donc à la semaine 4, en plus d'amener les corrections mentionnées pour le devoir 02.
+Tout d'abord, comme prévu, plusieurs changements ont été apportés, notamment au synopsis et aux schémas. Nous avons également réalisé un storyboard nous menant vers une nouvelle esthétique qui respecte les paysages visuels choisis. Aussi, nous avons fait le devoir donné par Thomas ce jeudi à remettre le jeudi suivant, donc à la semaine 4, en plus d'amener les corrections mentionnées pour le devoir 02.
 
 ![Image de la réalisation du paysage visuel et du scénarimage](medias/collectif/image_visuel_scenarimage.png)
 
@@ -49,16 +49,31 @@ Par la suite, nous avons créé une interface virtuelle représentant l'interfac
 
 ![Image de l'interface physique](medias/collectif/image_interface_physique.png)
 
-Enfin, nous avons commencé à installer les projecteurs et les haut-parleurs dans les herses. Malheureusement, certaines difficultés se sont présentées à nous au cours de l'installation des projecteurs. 
+Enfin, nous avons commencé à installer les projecteurs et les haut-parleurs dans les herses. Malheureusement, donner la bonne position au projecteur s'est rélévée être plus difficile que ce que l'on pensait. 
 
 ![Image de l'installation](medias/collectif/image_installation_s3.png)
 
 On a bien hâte de voir le projet se concrétiser davantage dans les lieux physiques. À suivre
 
 ## Semaine 4
-> Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
+> Cette semaine a été parsemée de difficultés et de modifications.  
+
+Tout d'abord, comme prévu, nous avons poursuivi l'installation des projecteurs ainsi que des haut-parleurs. Ces derniers étaient positionnés trop hauts et le son était dirigé trop loin derrière le podium, donc nous avons dû les réinstallés pour les accrocher sur des pôles extensibles permettant qu'ils soient directement directionnés vers l'endroit où l'interacteur est amené à se placer. Plusieurs difficultés se sont présentés lors de l'installation des projecteurs, notamment la position donnée à chacun qui doit empêcher la formation d'une superposition entre les projections ou d'une ombre dessiné par les projecteurs sur la projection. Il y avait également la présence de barres blanches à faire disparaître. De plus, de nouvelles modifications ont été inclues.
+
+
+
+Par la suite, nous avons officialisé notre logo et notre bannière suite aux commentaires reçus par Thomas et nous avons aussi modifié la vidéo d'intention pour s'assurer qu'elle soit à jour avec les changements que nous avons apportés au projet. 
+
+![Image du logo officiel de Sonalux](medias/collectif/image_logo_officiel.png)
+
+![Image de la bannière officielle de Sonalux](medias/collectif/image_banniere_officielle.png)
+
+Enfin, nous avons continué d'avancer sur la ligne du temps sur laquelle progresse l'expérience. 
+
+On a bien hâte de voir le projet se concrétiser davantage dans les lieux physiques. À suivre
 
 ## Semaine 5
+> Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
 
 ## Semaine 6
 
