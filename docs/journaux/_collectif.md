@@ -66,7 +66,7 @@ Par la suite, nous avons officialisé notre logo et notre bannière suite aux co
 
 ![Image du logo officiel de Sonalux](../medias/couverture.png)
 
-![Image de la bannière officielle de Sonalux](../medias/web/banniere_page_projet.png)
+![Image de la bannière officielle de Sonalux](../web/medias/banniere_page_projet.png)
 
 Enfin, nous avons continué d'avancer sur la ligne du temps sur laquelle progresse l'expérience. 
 
