@@ -70,6 +70,8 @@ Par la suite, nous avons officialisé notre logo et notre bannière suite aux co
 
 Enfin, nous avons continué d'avancer sur la ligne du temps sur laquelle progresse l'expérience. 
 
+[Vidéo de l'avancement de la ligne du temps](medias/collectif/video_ligne_temps_s4.mp4)
+
 On a bien hâte de voir le projet se concrétiser davantage dans les lieux physiques. À suivre
 
 ## Semaine 5
