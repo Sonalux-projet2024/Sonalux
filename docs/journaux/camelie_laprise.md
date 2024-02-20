@@ -151,6 +151,8 @@ Lier chaque composante sur le podium à un paramètre dans le visuel de la scèn
 - Acheter le matériel nécessaire.
 - Ajouter la typographie choisie dans le fichier TouchDesigner.
 - Arranger la couverture.
+- Monter la vidéo d'intention pour la mettre à jour.
+- Lier les composantes à un paramètre du visuel de la scène 01. 
 - Remplir le journal collectif. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -165,7 +167,7 @@ Lier chaque composante sur le podium à un paramètre dans le visuel de la scèn
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assignées dans le lapse de temps qui m'était donné, c'est-à-dire une semaine.   
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -184,6 +186,7 @@ Lier chaque composante sur le podium à un paramètre dans le visuel de la scèn
 
 
 ### Défis pour la prochaine semaine
+Commencer à peinturer le podium.
 
 ---
 ## Semaine 5
