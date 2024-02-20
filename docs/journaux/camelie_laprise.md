@@ -157,7 +157,7 @@ Lier chaque composante sur le podium à un paramètre dans le visuel de la scèn
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Image du montage de la vidéo d'intention](medias/camelie_laprise/image_realisation_fiere_s4.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
