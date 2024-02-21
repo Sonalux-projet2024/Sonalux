@@ -86,7 +86,7 @@ Sonalux est une expérience qui se distingue par son intensité graduelle sonore
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
-- 3 paysages visuels génératifs (TouchDesigner)
+- 2 paysages visuels génératifs (TouchDesigner)
 - 1 paysage sonore (VCV Rack)
 
 # Planification technique d'un prototype (devis technique)
@@ -121,7 +121,6 @@ L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans 
 
 * Vidéo
     * 3 projecteurs vidéo lentille grand angle 0.5
-    * Kinect v1
 
 * Lumière
     * Tubes DEL
@@ -140,12 +139,14 @@ L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans 
     * 1 ordinateur sur chariot
  
 * M5Stack
-    * 2 Atom Lite
-    * 2 Atom POE
+    * 3 Atom Lite
+    * 3 Atom POE
     * 5 Angle Unit
     * 4 Key Unit
     * 2 PBHub
     * 1 GroveHub
+    * 1 PaHub
+    * 2 Tof 
       
 * Autre
     * Boîte sonore 
@@ -166,6 +167,9 @@ Key Unit (Toggle) :
 * Mélodie
 * Kick
 * Percussion
+
+Tof : 
+* Détection de présence
   
 ## Logiciels requis
 
