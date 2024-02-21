@@ -176,7 +176,6 @@ Tof :
 * [TouchDesigner](https://derivative.ca/UserGuide/TouchDesigner)
 * [VCV Rack](https://vcvrack.com/)
 * [Arduino IDE](https://www.arduino.cc/en/software)
-* [Kinect v1.8 studio](https://www.microsoft.com/en-us/download/details.aspx?id=40278)
 
 ## Ressources humaines requises
 
