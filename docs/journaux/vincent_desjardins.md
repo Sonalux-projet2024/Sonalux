@@ -121,40 +121,27 @@ De plus on doit finaliser l'instalation dans l'espace des projeteur, car en équ
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
-
-### Image d'une réalisation dont tu es la ou le plus fier
-
-
-
+Cette semaine j'ai fait du ménage dans les patchers (touchdesigner et vcv rack) pour optimiser le tout, car nous avions remarquer que vcv rack avait tendance à crasher lorsque nous travaillons en même temps dans toucdesigner et la timeline conditionelle n'était pas bien structurer donc j'ai recommenceer à zéro avec une nouvelle approche qui inclu des scripts conttrairement à avant. J'ai donc ajouter des script qui gere le rendu des scènes, alors quand une scene n'est pas afficher elle arrete d'être rendu et j'ai aussi continuer la programation des interactions, dont le petit guide au début de l'instalation en ajouter des scipts qui créent une séquence conditionelle d'intéractions et donc l'interacteur doit effectuer une séquence précise avant de pouvoir avancer à la prochaine scène.
+cette semaine j'ai aussi améliorer le contrôle que les controleurs ont sur le son et le visuel, car nous avons eu la chance de recevoir les étudiants de première année dans le cadre de leur cours de documentation et cela nous à permis de voir comment des gens qui ne connaissent pas le projet réagissent face à notre instalation. Cela étais très instructif pour nous, car nous avons pu nous réajuster et amplifier encore plus le controle que l'intéracteur a sur le son et le visuel.
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+ j'ai réussi a programmer la soit dite timeline conditionelle et leurs animations sur les keys units du module interactif physique, mais avec Antoine nous devons regarder comment pouvoir envoyer de l'osc a partir de touchdesigenr vers les atom Lite(micro controleur), car ce sont les micro controleur qui controle les led(pixel) des bouttons du module interactif physique. 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
-
+Finaliser le code arduino pour que le Atom Lite puisse recevoir de l'osc pour changer la couleur du pixel sur le key unit.
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
