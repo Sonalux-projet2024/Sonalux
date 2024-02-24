@@ -160,7 +160,9 @@ Mais nous nous sommes rattrapé en temps voulu avec plus de rencontre hors cours
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+- Ajouté et coder le TOF Range sensor au poidum
+- Perforer la plaquette du dessus du podium afin d'y ajouter les équipements électroniques
+- Ajouter des morceaux de cartons sur les lentilles de chaque projecteurs afin de cachés la lumières blanches
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -168,32 +170,24 @@ Mais nous nous sommes rattrapé en temps voulu avec plus de rencontre hors cours
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
-#### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
 
+- Assemblage du podium
+- Installer la poignée et les pentures sur la planche arrière du podium
+- Installer les Tubes DELs sur le podium
+- Perforer les deux trous pour les deux TOF Range Sensor 
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
