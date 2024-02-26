@@ -97,9 +97,6 @@ Commencer à réfléchir au mapping des 3 projections sur le mur ainsi que celle
 - Réalisation du paysage visuel du sol
 - Mettre à jour la préproduction
 - Mettre à jour les devoirs artistiques pour le cours de Thomas
-- Refaire le moodboard 
-- Retravailler le powerpoint pour la vidéo d'intention
-- Refilmer la vidéo d'intention
 
 ### Image d'une réalisation dont tu es la plus fière
 
@@ -128,11 +125,9 @@ Commencer à réfléchir au mapping des 3 projections sur le mur ainsi que celle
 
 ### Résumé des réalisations effectuées
 
-- Travailler sur le lien entre les visuels et les composantes tactiles
-- Aider à monter l'installation
-- Accueillir les élèves de première année
-- Remplir le sondage pour l'évaluation du travail d'équipe
-
+- Refaire le moodboard 
+- Retravailler le powerpoint pour la vidéo d'intention
+- Refilmer la vidéo d'intention
 
 ### Image d'une réalisation dont tu es la plus fière
 
@@ -161,6 +156,11 @@ J'ai réussi l'ensemble de mes tâches, mais en a fait moins que les semaines de
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
+
+- Travailler sur le lien entre les visuels et les composantes tactiles
+- Aider à monter l'installation
+- Accueillir les élèves de première année
+- Remplir le sondage pour l'évaluation du travail d'équipe
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
