@@ -120,6 +120,8 @@ Commencer à réfléchir au mapping des 3 projections sur le mur ainsi que celle
 
 ### Défis pour la prochaine semaine
 
+Le principal défi sera d'essayer de faire un rendu 3 caméra pour le visuel.
+
 ---
 ## Semaine 4
 
