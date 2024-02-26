@@ -128,10 +128,11 @@ Commencer à réfléchir au mapping des 3 projections sur le mur ainsi que celle
 - Refaire le moodboard 
 - Retravailler le powerpoint pour la vidéo d'intention
 - Refilmer la vidéo d'intention
+- Aider à monter l'installation
 
 ### Image d'une réalisation dont tu es la plus fière
 
-
+Mettre Moadboard ici
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -153,11 +154,13 @@ J'ai réussi l'ensemble de mes tâches, mais en a fait moins que les semaines de
 
 ### Défis pour la prochaine semaine
 
+Le principal défi a été de créer différents liens entre le visuel et les différentes composantes tactiles. De plus, il va falloir trouver un moyen d'incorporer correctement le visuel sur les trois murs.
+
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
 
-- Travailler sur le lien entre les visuels et les composantes tactiles
+- Aider à travailler sur le lien entre les visuels et les composantes tactiles
 - Aider à monter l'installation
 - Accueillir les élèves de première année
 - Remplir le sondage pour l'évaluation du travail d'équipe
@@ -165,35 +168,29 @@ J'ai réussi l'ensemble de mes tâches, mais en a fait moins que les semaines de
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+Image test Jé ici
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
-#### Décrivez pourquoi.
- 
+#### Décrivez pourquoi 
 
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+J'ai réussi l'ensemble de mes tâches, mais en a fait moins que les semaines dernières étant donné que cette semaine était moins occupée que les précédentes.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
+
+Le principal défi pour la semaine prochaine serait de commencer à cacher les fils de l'installation.
 
 ---
 ## Semaine de rattrapage
