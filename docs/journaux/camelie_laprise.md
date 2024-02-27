@@ -191,7 +191,9 @@ Commencer à peinturer le podium.
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+- Lier les composantes à un paramètre visuel de la scène 02.
+- Peinturer le podium.
+- Remplir le journal collectif.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -199,20 +201,20 @@ Commencer à peinturer le podium.
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assignées dans le lapse de temps qui m'était donné, c'est-à-dire une semaine.   
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -224,6 +226,7 @@ Commencer à peinturer le podium.
 
 
 ### Défis pour la prochaine semaine
+Commencer à organiser et à ranger l'espace en fonction de la semaine d'expositions. 
 
 ---
 ## Semaine de rattrapage
