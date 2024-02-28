@@ -81,11 +81,7 @@ Sonalux est une expérience qui se distingue par son environnement visuel et son
 
 > ![Image du scénarimage de la scène Huile](medias/moodboards/image_scenarimage_huile.PNG)
 
-> ![Image du scénarimage du retour au mode veille](medias/moodboards/image_scenarimage_retour_veille.PNG)
-
 > ![Image du scénarimage de la scène Galaxie](medias/moodboards/image_scenarimage_galaxie.PNG)
-
-> ![Image du scénarimage du retour au mode veille](medias/moodboards/image_scenarimage_retour_veille.PNG)
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
