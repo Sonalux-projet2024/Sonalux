@@ -23,7 +23,7 @@
     - [Ressources spatiales requises (rangement et locaux)](#Ressources-spatiales-requises-(rangement-et-locaux))
     - [Contraintes techniques et potentiels problèmes de production](#Contraintes-techniques-et-potentiels-problèmes-de-production)
 4. [Planification de la production d'un prototype (budget et étapes de réalisation)](#Planification-de-la-production-(budget-et-étapes-de-réalisation))
-    - [Budget prévisionnel](#Budget-prévisionnel)
+    - [Budget](#Budget)
     - [Échéancier global](#Échéancier-global)
     - [Liste des tâches à réaliser](#Liste-des-tâches-à-réaliser)
     - [Rôles et responsabilités des membres de l'équipe](#Rôles-et-responsabilités-des-membres-de-l'équipe))
@@ -195,8 +195,8 @@ ToF Unit :
 | Relier les composantes au reste de l’installation                                                                                                | Faire plusieurs itérations de visuel pour que le visuel et le son se complémentent et intéragissent bien ensemble |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
-## Budget prévisionnel
-![Image du budget](medias/budget/image_budget.png)
+## Budget 
+![Image du budget](medias/budget/image_budget.PNG)
 
 ## Rôles et responsabilités des membres de l'équipe
 
