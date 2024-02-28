@@ -75,9 +75,16 @@ Enfin, nous avons continué d'avancer sur la ligne du temps sur laquelle progres
 On a bien hâte de voir le projet se concrétiser davantage dans les lieux physiques. À suivre
 
 ## Semaine 5
-> Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
+> Cette semaine a été parsemée d'analyse.
+
+Tout d'abord, comme prévu, nous avons reçu la visite des étudiants et étudiantes de première année de TIM qui nous a permis d'avoir des rétrospectives sur notre projet et ainsi trouver des solutions sur les problèmes observés. Par exemple, nous avons remarqué que plusieurs ne regardent pas spécialement le visuel, car ils sont trop concentrés à écouter le son, ainsi nous avons décidé de les laisser expérimenter sans leur apposer aucune limite de temps pour qu'ils découvrent et prennent conscience graduellement de l'univers qu'il créé à leur rythme. 
+
+Par la suite, nous avons pousuivi les avancements sur le podium. 
+
+Enfin, nous avons décidé de remplacer la Kinect par les ToF Unit qui permettront l'activation de notre expérience par la détection de présence d'un interacteur. 
 
 ## Semaine 6
+> Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
 
 ## Semaine 7
 
