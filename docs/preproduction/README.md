@@ -73,15 +73,19 @@ Sonalux est une expérience qui se distingue par son environnement visuel et son
 > [Aaron Batzdorff - TikTok](https://www.tiktok.com/@aaronbatzdorff/video/7256329924485582122)
 
 ## Scénarimage
-> ![Image du scénarimage du mode veille](medias/moodboards/image_scenarimage_veille.png)
+> ![Image du scénarimage du mode veille](medias/moodboards/image_scenarimage_mode_veille.PNG)
 
-> ![Image du scénarimage de la scène 01](medias/moodboards/image_scenarimage_scene_01.png)
+> ![Image du scénarimage de la scène Vague](medias/moodboards/image_scenarimage_vague.PNG)
 
-> ![Image du scénarimage de la transition](medias/moodboards/image_scenarimage_transition.png)
+> ![Image du scénarimage du retour au mode veille](medias/moodboards/image_scenarimage_retour_veille.PNG)
 
-> ![Image du scénarimage de la scène 02](medias/moodboards/image_scenarimage_scene_02.png)
+> ![Image du scénarimage de la scène Huile](medias/moodboards/image_scenarimage_huile.PNG)
 
-> ![Image du scénarimage du retour au mode veille](medias/moodboards/image_scenarimage_retourne.png)
+> ![Image du scénarimage du retour au mode veille](medias/moodboards/image_scenarimage_retour_veille.PNG)
+
+> ![Image du scénarimage de la scène Galaxie](medias/moodboards/image_scenarimage_galaxie.PNG)
+
+> ![Image du scénarimage du retour au mode veille](medias/moodboards/image_scenarimage_retour_veille.PNG)
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
