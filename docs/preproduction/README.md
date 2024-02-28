@@ -39,7 +39,7 @@
 Par ce projet, nous souhaitons pousser l'interacteur à se déchaîner de toutes de forme de contrôle pour laisser place à la création complète d'un monde immersif et interactif qui mène vers une expérience hyperstimulante. De plus, le but de Sonalux est de repenser les idées préconçues d'un studio de musique dans un esthétique d'art génératif qui permet de rendre l'installation accessible pour tout le monde. 
 
 ## Synopsis
-Sonalux est une expérience qui se distingue par son intensité graduelle sonore et visuelle ainsi que son environnement qui devient davantage chaotique et explosif de couleurs et de sons. Le public est appelé à découvrir les particularités de l'expérience en explorant les diverses composantes de la boîte.
+Sonalux est une expérience qui se distingue par son environnement visuel et sonore évolutif contrôlé par les gestes posés par les interacteurs les amenant vers un tout nouvel univers qui leur est propre. Le public est appelé à découvrir les particularités de l'expérience en explorant les diverses composantes de la boîte ainsi que ses différentes scènes visuelles.
 
 ## Moodboard visuel
 
@@ -86,7 +86,7 @@ Sonalux est une expérience qui se distingue par son intensité graduelle sonore
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
-- 2 paysages visuels génératifs (TouchDesigner)
+- 3 paysages visuels génératifs (TouchDesigner)
 - 1 paysage sonore (VCV Rack)
 
 # Planification technique d'un prototype (devis technique)
@@ -104,7 +104,7 @@ Sonalux est une expérience qui se distingue par son intensité graduelle sonore
 > ![Schéma de branchement de la boîte sonore](medias/schemas/schema_branchement_boite_sonore.png)
 
 ## Installation
-L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans les herses, il y a deux hauts-parleurs ainsi que 3 projecteurs et une Kinect accrochés afin de projeter un son ambiant, trois projections et opérer une captation de présence. Au centre de l'installation se trouve un podium qui sert à contrôler les différents paysages sonores et visuels de l'expérience. Pour ce faire, l'interacteur devra utiliser une boite qui est posée au dessus du podium et qui est composée de différentes composantes M5Stack : Atom Lite, Atom POE, Angle Unit, Key Unit, PBHub, GroveHub. Le podium sera décoré de tubes DEL tout autour qui seront synchronisés avec l'expérience.
+L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans les herses, il y a deux hauts-parleurs ainsi que 3 projecteurs accrochés afin de projeter un son génératif et trois projections génératives. Au centre de l'installation se trouve un podium qui sert à contrôler les différents paysages sonores et visuels de l'expérience. Pour ce faire, l'interacteur devra utiliser les composantes M5Stack placées au dessus du podium, c'est-à-dire : Atom Lite, Atom POE, Angle Unit, Key Unit, ToF Unit, PBHub, GroveHub, PaHub. Le podium sera décoré de tubes DEL tout autour qui seront synchronisés avec l'expérience tel que ceux qui seront disposés autour des murs. 
 
 ## Matériel de scénographie requis
 
@@ -143,13 +143,12 @@ L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans 
     * 3 Atom POE
     * 5 Angle Unit
     * 4 Key Unit
+    * 2 ToF Unit
     * 2 PBHub
     * 1 GroveHub
     * 1 PaHub
-    * 2 Tof 
       
 * Autre
-    * Boîte sonore 
     * Podium
     * 4 crochets 
 
@@ -168,7 +167,7 @@ Key Unit (Toggle) :
 * Kick
 * Percussion
 
-Tof : 
+ToF Unit : 
 * Détection de présence
   
 ## Logiciels requis
@@ -191,10 +190,9 @@ Tof :
 
 | Contrainte ou problème potentiel                                                                                                          | Solution envisagée                                                                                                              
 |-------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| Apprendre et maîtriser un tout nouveau logiciel, soit TouchDesigner                                                                       | Expérimentation durant la session |                                                                                             
-| Apprendre à utiliser la kinect pour la captation live                                                                                     | Expérimentation durant la session et documentation sur le web |                                                                 
-| Réaliser la boîte sonore et intégrer les différentes composantes, c’est-à-dire analogues (sortie audio) et électriques (microcontrôleurs) | Acheter le matériel nécéssaire |
-| Relier la boîte au reste de l’installation                                                                                                | Faire plusieurs itérations de visuel pour que le visuel et le son se complémentent et intéragissent bien ensemble |
+| Apprendre et maîtriser un tout nouveau logiciel, soit TouchDesigner                                                                       | Expérimentation durant la session |                                                                                                                                                   
+| Réaliser le podium et intégrer les différentes composantes, c’est-à-dire analogues (sortie audio) et électriques (microcontrôleurs) | Acheter le matériel nécéssaire |
+| Relier les composantes au reste de l’installation                                                                                                | Faire plusieurs itérations de visuel pour que le visuel et le son se complémentent et intéragissent bien ensemble |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
@@ -251,7 +249,7 @@ L’esthétique d'art génératif des paysages sonores et visuels obligent l’i
 L’installation se présente comme une enceinte afin de mettre l’accent sur l’aspect immersif. De plus, l’espace permet d’accueillir plusieurs utilisateurs afin qu’ils découvrent l'espace virtuel et voyagent ensemble dans celui-ci menant vers une toute nouvelle expérience représentée comme étant un voyage astral. 
 
 ### Temps
-Le temps se divise en deux dans notre projet, à commencer avec ***chronos*** proposé par l’évolution graduelle vers un monde plus euphorique, il rappel à l’utilisateur dans quel tableau il se situe, il est objectif. Puis, il y a ***kairos*** qui est subjectif comme l’expérience vécue par les utilisateurs qui est propre à chacun. Lorsque l'interacteur quitte, le projet revient à l'état de veille comme lorsqu'il rentre, il en sort. Sonalux présente une boucle.
+Le temps se divise en deux dans notre projet, à commencer avec ***chronos*** proposé par l’évolution graduelle vers un monde sans contraintes. Constitué de trois visuels différents, il rappel également à l’utilisateur dans quelle partie de la boucle il se situe, il est objectif. Puis, il y a ***kairos*** qui est subjectif comme l’expérience vécue par les utilisateurs qui est propre à chacun. Lorsque l'interacteur quitte, le projet revient à l'état de veille comme lorsqu'il rentre, il en sort. Sonalux forme une boucle.
 
 ### Quelles émotions voulez-vous faire vivre à l’interacteur ?
 
