@@ -26,7 +26,7 @@
     - [Budget](#Budget)
     - [Échéancier global](#Échéancier-global)
     - [Liste des tâches à réaliser](#Liste-des-tâches-à-réaliser)
-    - [Rôles et responsabilités des membres de l'équipe](#Rôles-et-responsabilités-des-membres-de-l'équipe))
+    - [Rôles et responsabilités des membres de l'équipe](#Rôles-et-responsabilités-des-membres-de-l'équipe)
     - [Moments des rencontres d'équipe](#Moments-des-rencontres-d'équipe)
 5. [Direction artistique](#Direction-artistique)
     - [Semaine 1](#Semaine-1)
