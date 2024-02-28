@@ -196,7 +196,7 @@ ToF Unit :
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
-License TouchDesigner (300$)
+![Image du budget](medias/budget/image_budget.png)
 
 ## Rôles et responsabilités des membres de l'équipe
 
