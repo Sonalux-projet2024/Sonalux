@@ -235,7 +235,7 @@ Commencer à organiser et à ranger l'espace en fonction de la semaine d'exposit
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Image du podium peinturé en noir](medias/camelie_laprise/image_realisation_fiere_s5.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
