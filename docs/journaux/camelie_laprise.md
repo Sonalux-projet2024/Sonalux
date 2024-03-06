@@ -284,7 +284,7 @@ Placer les tubes DEL.
 ### Résumé des réalisations effectuées
 - Placer les tubes DEL.
 - Mettre du ruban adhésif noir pour cacher les fils.
-- Cacher les TOF Unit avec du ruban adhésif noir.
+- Cacher les ToF Unit avec du ruban adhésif noir.
 - Remplir le journal collectif. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
