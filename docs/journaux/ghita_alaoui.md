@@ -168,7 +168,7 @@ Le principal défi a été de créer différents liens entre le visuel et les di
 - Remplir le sondage pour l'évaluation du travail d'équipe
 
 
-### Image d'une réalisation dont tu es la ou le plus fier
+### Image d'une réalisation dont tu es la plus fière
 
 ![Image du test avec Jeremi](medias/ghita_alaoui/image_realisation_fiere_s5.jpeg)
 
@@ -206,9 +206,9 @@ Le principal défi pour la semaine prochaine serait de commencer à cacher les f
 - Aider pour le podium
 
 
-### Image d'une réalisation dont tu es la ou le plus fier
+### Image d'une réalisation dont tu es la plus fière
 
-Paysage touch
+![Image du test avec Jeremi](medias/ghita_alaoui/image_realisation_fiere_s6.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
