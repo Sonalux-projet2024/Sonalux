@@ -48,18 +48,18 @@ Parce que j'ai complété l'ensemble des tâches qui m'était assignées et me s
 
 ### Défis pour la prochaine semaine
 
-Continuer à utiliser le logiciel TouchDesigner et m'améliorer.
+Le principal défi pour la semaine prochaine est de continuer à utiliser le logiciel TouchDesigner et m'améliorer.
 
 ---
 ## Semaine 2
 
 ### Résumé des réalisations effectuées
 
-- Réalisation d'un paysage visuel sur TouchDesigner
-- Correction de la préproduction
+- Réalisation d'un paysage test visuel sur TouchDesigner
+- Correction de la préproduction sur GitHub
 - Réaliser le devoir de Thomas pour la semaine 3
-- Retravailler le travail 2
-- Refaire le moodboard
+- Retravailler le travail 2 de Thomas
+- Refaire le moodboard visuel pour ajuster l'ambiance général
   
 ### Image d'une réalisation dont tu es la plus fière
 
@@ -76,7 +76,6 @@ Continuer à utiliser le logiciel TouchDesigner et m'améliorer.
 
 Parce que j'ai complété l'ensemble des tâches qui m'était assignées. De plus, je me suis familiarisé avec le logiciel de TouchDesigner.
 
-
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [x] Complètement
@@ -86,7 +85,7 @@ Parce que j'ai complété l'ensemble des tâches qui m'était assignées. De plu
 
 ### Défis pour la prochaine semaine
 
-Commencer à réfléchir au mapping des 3 projections sur le mur ainsi que celle sur le sol.
+Le principal défi de la semaine prochaine est de commencer à réfléchir au mapping des 3 projections sur le mur ainsi que celle sur le sol.
 
 ---
 ## Semaine 3 
@@ -111,7 +110,7 @@ Commencer à réfléchir au mapping des 3 projections sur le mur ainsi que celle
 
 #### Décrivez pourquoi.
 
-Parce que j'ai complété l'ensemble des tâches qui m'était assignées. De plus, j'ai sû réaliser les paysages visuels que nous allons uiliser.
+Parce que j'ai complété l'ensemble des tâches qui m'était assignées. De plus, j'ai sû réaliser les paysages visuels que nous allons utiliser.
  
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -122,14 +121,14 @@ Parce que j'ai complété l'ensemble des tâches qui m'était assignées. De plu
 
 ### Défis pour la prochaine semaine
 
-Le principal défi sera d'essayer de faire un rendu 3 caméra pour le visuel.
+Le principal défi pour la semaine prochaine sera d'essayer de faire un rendu 3 caméras pour le visuel.
 
 ---
 ## Semaine 4
 
 ### Résumé des réalisations effectuées
 
-- Refaire le moodboard 
+- Refaire le moodboard visuel pour le mettre en lien avec la nouvelle ambiance
 - Retravailler le powerpoint pour la vidéo d'intention
 - Refilmer la vidéo d'intention
 - Aider à monter l'installation
@@ -140,8 +139,8 @@ Le principal défi sera d'essayer de faire un rendu 3 caméra pour le visuel.
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
-- [X] Assez
+- [X] Complètement
+- [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
@@ -158,17 +157,17 @@ J'ai réussi l'ensemble de mes tâches, mais en a fait moins que les semaines de
 
 ### Défis pour la prochaine semaine
 
-Le principal défi a été de créer différents liens entre le visuel et les différentes composantes tactiles. De plus, il va falloir trouver un moyen d'incorporer correctement le visuel sur les trois murs.
+Le principal défi sera de créer les différents liens entre le visuel et les différentes composantes tactiles. De plus, il va falloir trouver un moyen d'incorporer correctement le visuel sur les trois murs.
 
 ---
 ## Semaine 5
+
 ### Résumé des réalisations effectuées
 
 - Aider à travailler sur le lien entre les visuels et les composantes tactiles
 - Aider à monter l'installation
 - Accueillir les élèves de première année
 - Remplir le sondage pour l'évaluation du travail d'équipe
-
 
 ### Image d'une réalisation dont tu es la plus fière
 
@@ -194,19 +193,18 @@ J'ai réussi l'ensemble de mes tâches, mais en a fait moins que les semaines de
 
 ### Défis pour la prochaine semaine
 
-Le principal défi pour la semaine prochaine serait de commencer à cacher les fils de l'installation.
+Le principal défi pour la semaine prochaine sera de commencer à cacher les fils de l'installation.
 
 ---
 
 ## Semaine 6
 ### Résumé des réalisations effectuées
 
-- Création du deuxième paysage visuel
+- Création du deuxième paysage visuel 
 - Création du troisième paysage visuel
 - Lier les composantes du deuxième et troisième paysage visuel
 - Aider pour l'installation
 - Aider pour le podium
-
 
 ### Image d'une réalisation dont tu es la plus fière
 
@@ -232,7 +230,7 @@ Parce que j'ai complété l'ensemble des tâches qui m'était assignées. De plu
 
 ### Défis pour la prochaine semaine
 
-Essayer de placer les tubes DEL correctement.
+Le principal défi pour la semaine prochaine sera d'essayer de placer les tubes DEL correctement dans l'espace.
 
 ---
 
@@ -243,9 +241,7 @@ Essayer de placer les tubes DEL correctement.
 - Placer les lumières DEL sur le sol et les brancher
 - Cacher les branchements avec du tape
 - Cacher la lumière des DEL avec du tape
-- Repeinturer le podium
 - Aider avec le podium
-
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -253,8 +249,8 @@ Mettre les DEL ici
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
-- [X] Assez
+- [X] Complètement
+- [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
@@ -275,7 +271,10 @@ Le principal défi pour la semaine prochaine sera de finaliser l'installation.
 
 ---
 ## Semaine 7
+
 ### Résumé des réalisations effectuées
+
+- Repeinturer le podium
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
