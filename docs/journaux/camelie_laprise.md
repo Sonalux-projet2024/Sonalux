@@ -6,8 +6,8 @@
 * [Semaine 3](#semaine-3)
 * [Semaine 4](#semaine-4)
 * [Semaine 5](#semaine-5)
-* [Semaine de rattrapage](#semaine-de-rattrapage)
 * [Semaine 6](#semaine-6)
+* [Semaine de rattrapage](#semaine-de-rattrapage)
 * [Semaine 7](#semaine-7)
 * [Semaine 8](#semaine-8)
 * [Semaine 9](#semaine-9)
@@ -226,62 +226,39 @@ Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assig
 
 
 ### Défis pour la prochaine semaine
-Commencer à organiser et à ranger l'espace en fonction de la semaine d'expositions. 
-
----
-## Semaine de rattrapage
-### Résumé des réalisations effectuées
-
-
-### Image d'une réalisation dont tu es la ou le plus fier
-
-
-### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
-
-- [ ] Complètement
-- [ ] Assez
-- [ ] Peu
-- [ ] Pas du tout
-
-#### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
-### Mon projet s'est-il réalisé selon l’échéancier prévu?
-
-- [ ] Complètement
-- [ ] Assez
-- [ ] Un peu
-- [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
-### Défis pour la prochaine semaine
+Commencer à organiser et à ranger l'espace en fonction de la semaine d'expositions.
 
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+- Refaire le storyboard.
+- Faire le budget.
+- Retravailler la préproduction.
+- Commander le matériel nécessaire. 
+- Aider lors du perçage des trous dans le podium.
+- Commencer à ranger l'espace. 
+- Remplir le journal collectif.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![Image du scénarimage du mode veille](medias/camelie_laprise/image_scenarimage_mode_veille.PNG)
 
+![Image du scénarimage de la scène Vague](medias/camelie_laprise/image_scenarimage_vague.PNG)
 
+![Image du scénarimage du retour au mode veille](medias/camelie_laprise/image_scenarimage_retour_veille.PNG)
+
+![Image du scénarimage de la scène Huile](medias/camelie_laprise/image_scenarimage_huile.PNG)
+
+![Image du scénarimage de la scène Galaxie](medias/camelie_laprise/image_scenarimage_galaxie.PNG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assignées dans le lapse de temps qui m'était donné, c'est-à-dire une semaine.  
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -289,6 +266,45 @@ Commencer à organiser et à ranger l'espace en fonction de la semaine d'exposit
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
+- [x] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait
+
+#### S'il y a des écarts, décrivez-les.
+Les crochets que nous avions étaient trop petits pour les casques d'écouteurs ainsi nous en avons commandé d'autres et ne pouvons pas faire les trous cette semaine.
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+Nous allons faire les trous pour ces nouveaux crochets durant la semaine de rattrapage.
+
+### Défis pour la prochaine semaine
+Placer les tubes DEL. 
+
+---
+## Semaine de rattrapage
+### Résumé des réalisations effectuées
+- Placer les tubes DEL.
+- Mettre du ruban adhésif noir pour cacher les fils.
+- Cacher les ToF Unit avec du ruban adhésif noir.
+- Remplir le journal collectif. 
+
+### Image d'une réalisation dont tu es la ou le plus fier
+
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
+
+- [x] Complètement
+- [ ] Assez
+- [ ] Peu
+- [ ] Pas du tout
+
+#### Décrivez pourquoi.
+Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assignées dans le lapse de temps qui m'était donné, c'est-à-dire une semaine. 
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+
+
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
+
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -300,11 +316,12 @@ Commencer à organiser et à ranger l'espace en fonction de la semaine d'exposit
 
 
 ### Défis pour la prochaine semaine
+Compléter le projet. 
 
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+- Peinturer les vis sur le podium en noir.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 

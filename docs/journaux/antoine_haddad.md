@@ -107,7 +107,7 @@ Il va falloir changement le nombre de projecteurs attacher en hauteur. Nous pens
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [] Complètement
+- [ ] Complètement
 - [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -137,7 +137,7 @@ Confirmer avec Guillaume et Thomas des modification concerntant notre installati
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [X] Complètement
-- [] Assez
+- [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
@@ -166,7 +166,7 @@ Mais nous nous sommes rattrapé en temps voulu avec plus de rencontre hors cours
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+[Avancement du podium - Youtube](https://www.youtube.com/watch?v=jYz8WghV8xQ&ab_channel=Antidote)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -191,40 +191,38 @@ Mais nous nous sommes rattrapé en temps voulu avec plus de rencontre hors cours
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+- Installation des tubes DEL sur le podium
+- Perforer 13 trous sur 15 sur le podium
+- Installer les premières composantes à l'intérieur du podium
+- Installer des vis plus adéquat pour les contrôleurs électronique
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![podium_face](medias/antoine_haddad/podium_face.png)
+![podium_arriere](medias/antoine_haddad/podium_arriere.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
-#### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Malheursement, les crochets prévu afin de tenir les écouteurs étaient trop petites.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Nous devons en commander d'autre.
 
 ### Défis pour la prochaine semaine
-
+Finalisation du projet
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
