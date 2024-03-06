@@ -199,113 +199,77 @@ Le principal défi pour la semaine prochaine serait de commencer à cacher les f
 ## Semaine 6
 ### Résumé des réalisations effectuées
 
+- Création du deuxième paysage visuel
+- Création du troisième paysage visuel
+- Lier les composantes du deuxième et troisième paysage visuel
+- Aider pour l'installation
+- Aider pour le podium
+
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+Paysage touch
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
+
+Parce que j'ai complété l'ensemble des tâches qui m'était assignées. De plus, je me suis familiarisé encore plus avec l'interface virtuelle.
  
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
+
+Essayer de placer les tubes DEL correctement.
 
 ---
 
 ## Semaine de rattrapage
+
 ### Résumé des réalisations effectuées
+
+- Placer les lumières DEL sur le sol et les brancher
+- Cacher les branchements avec du tape
+- Cacher la lumière des DEL avec du tape
+- Repeinturer le podium
+- Aider avec le podium
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
-
-### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
-
-- [ ] Complètement
-- [ ] Assez
-- [ ] Peu
-- [ ] Pas du tout
-
-#### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
-### Mon projet s'est-il réalisé selon l’échéancier prévu?
-
-- [ ] Complètement
-- [ ] Assez
-- [ ] Un peu
-- [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
-### Défis pour la prochaine semaine
-
----
-## Semaine 6
-### Résumé des réalisations effectuées
-
-
-### Image d'une réalisation dont tu es la ou le plus fier
-
-
+Mettre les DEL ici
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
+
+J'ai réussi l'ensemble de mes tâches, mais en a fait moins que les semaines dernières étant donné que cette semaine était moins occupée que les précédentes.
  
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
+
+Le principal défi pour la semaine prochaine sera de finaliser l'installation.
 
 ---
 ## Semaine 7
