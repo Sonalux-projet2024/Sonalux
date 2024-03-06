@@ -182,8 +182,7 @@ En équipe nous avons finaliser tout ce qui se place a l'intérieur du podium, d
 de plus, nous avons reçu notre liscence touchdesigner donc nous avons pu voir notre visuel en plus grande résolution.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![podium interne](medias/vincent_desjardins/tube_led_podium.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
