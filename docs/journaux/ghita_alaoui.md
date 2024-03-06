@@ -110,6 +110,8 @@ Commencer à réfléchir au mapping des 3 projections sur le mur ainsi que celle
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
+
+Parce que j'ai complété l'ensemble des tâches qui m'était assignées. De plus, j'ai sû réaliser les paysages visuels que nous allons uiliser.
  
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
