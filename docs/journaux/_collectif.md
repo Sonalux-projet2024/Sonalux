@@ -84,9 +84,16 @@ Par la suite, nous avons pousuivi les avancements sur le podium.
 Enfin, nous avons décidé de remplacer la Kinect par les ToF Unit qui permettront l'activation de notre expérience par la détection de présence d'un interacteur. 
 
 ## Semaine 6
-> Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
+Cette semaine a été parsemée de 
+
+Tout d'abord, comme prévu, nous avons créé les deux nouveaux paysages visuels menant ainsi vers certaines modifications a apportées dans la préproduction. 
+
+Par la suite, nous avons 
+
+Enfin, nous avons commencé la perforation des trous dans le podium.
 
 ## Semaine 7
+> Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
 
 ## Semaine 8
 
