@@ -281,7 +281,15 @@ Placer les tubes DEL.
 - Remplir le journal collectif. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![Image du scénarimage du mode veille](medias/camelie_laprise/image_scenarimage_mode_veille.PNG)
 
+![Image du scénarimage de la scène Vague](medias/camelie_laprise/image_scenarimage_vague.PNG)
+
+![Image du scénarimage du retour au mode veille](medias/camelie_laprise/image_scenarimage_retour.PNG)
+
+![Image du scénarimage de la scène Huile](medias/camelie_laprise/image_scenarimage_huile.PNG)
+
+![Image du scénarimage de la scène Galaxie](medias/camelie_laprise/image_scenarimage_galaxie.PNG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
