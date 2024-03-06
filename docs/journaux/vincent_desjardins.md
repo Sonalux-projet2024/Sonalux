@@ -145,10 +145,10 @@ Finaliser le code arduino pour que le Atom Lite puisse recevoir de l'osc pour ch
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+cette semaine j'ai aidé Antoine avec la finalisation du podium, car pour l'instant il y avait seulement la structure et les controleurs, mais nous avons intégré tout les composants tels que la switch poe, l'amplificateur d'écouteurs et les atoms, ensuite j'ai aussi continué l'avancement du son qui sera générer lors de l'instalation. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![meta patcher](medias/vincent_desjardins/podium_interne.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
