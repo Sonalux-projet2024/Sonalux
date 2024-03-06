@@ -244,7 +244,7 @@ Commencer à organiser et à ranger l'espace en fonction de la semaine d'exposit
 
 ![Image du scénarimage de la scène Vague](medias/camelie_laprise/image_scenarimage_vague.PNG)
 
-![Image du scénarimage du retour au mode veille](medias/camelie_laprise/image_scenarimage_retour.PNG)
+![Image du scénarimage du retour au mode veille](medias/camelie_laprise/image_scenarimage_retour_veille.PNG)
 
 ![Image du scénarimage de la scène Huile](medias/camelie_laprise/image_scenarimage_huile.PNG)
 
