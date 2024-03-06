@@ -226,48 +226,18 @@ Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assig
 
 
 ### Défis pour la prochaine semaine
-Commencer à organiser et à ranger l'espace en fonction de la semaine d'expositions. 
-
----
-## Semaine de rattrapage
-### Résumé des réalisations effectuées
-
-
-### Image d'une réalisation dont tu es la ou le plus fier
-
-
-### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
-
-- [ ] Complètement
-- [ ] Assez
-- [ ] Peu
-- [ ] Pas du tout
-
-#### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
-### Mon projet s'est-il réalisé selon l’échéancier prévu?
-
-- [ ] Complètement
-- [ ] Assez
-- [ ] Un peu
-- [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
-### Défis pour la prochaine semaine
+Commencer à organiser et à ranger l'espace en fonction de la semaine d'expositions.
 
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+- Refaire le storyboard.
+- Faire le budget.
+- Retravailler la préproduction.
+- Commander le matériel nécessaire. 
+- Aider lors du perçage des trous dans le podium.
+- Commencer à ranger l'espace. 
+- Remplir le journal collectif.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -275,20 +245,20 @@ Commencer à organiser et à ranger l'espace en fonction de la semaine d'exposit
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assignées dans le lapse de temps qui m'était donné, c'est-à-dire une semaine.  
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -300,11 +270,52 @@ Commencer à organiser et à ranger l'espace en fonction de la semaine d'exposit
 
 
 ### Défis pour la prochaine semaine
+Placer les tubes DEL. 
+
+---
+## Semaine de rattrapage
+### Résumé des réalisations effectuées
+- Placer les tubes DEL.
+- Mettre du ruban adhésif noir pour cacher les fils.
+- Cacher les TOF Unit avec du ruban adhésif noir.
+- Remplir le journal collectif. 
+
+### Image d'une réalisation dont tu es la ou le plus fier
+
+
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
+
+- [x] Complètement
+- [ ] Assez
+- [ ] Peu
+- [ ] Pas du tout
+
+#### Décrivez pourquoi.
+Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assignées dans le lapse de temps qui m'était donné, c'est-à-dire une semaine. 
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+
+
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
+
+- [x] Complètement
+- [ ] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait
+
+#### S'il y a des écarts, décrivez-les.
+
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+
+
+### Défis pour la prochaine semaine
+Compléter le projet. 
 
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+- Peinturer les vis sur le podium en noir.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
