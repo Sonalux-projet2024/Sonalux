@@ -265,16 +265,16 @@ Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assig
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [x] Complètement
-- [ ] Assez
+- [ ] Complètement
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Les crochets que nous avions étaient trop petits pour les casques d'écouteurs ainsi nous en avons commandé d'autres et ne pouvons pas faire les trous cette semaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Nous allons faire les trous pour ces nouveaux crochets durant la semaine de rattrapage.
 
 ### Défis pour la prochaine semaine
 Placer les tubes DEL. 
