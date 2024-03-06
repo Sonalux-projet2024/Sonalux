@@ -155,36 +155,31 @@ De plus, j'ai fait les tests pour les écouteurs, car cela pose un défie d'avoi
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+pour l'instant le proejt avance très bien, nous seulement eu l'ambuche des écouteurs, mais j'ai rapidement trouver une solutions et l'avancement du podium me convient.
 
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
-
+attendre que Antoine fasse les trous pour fixer les tubes led et faire la programation des animations led sur le podium et le mapping de led dans touchdesigner
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+En équipe nous avons finaliser tout ce qui se place a l'intérieur du podium, donc l'instalation est fonctionelle. Ensuite j'ai programmer les leds selon l'état de l'instalation. Si elle est en veille il y a une pulsation avec du noise qui est envoyé dans les tubes led et qunad l'instalation est activé les led sont contrôlé par les potentiomêtres.
+de plus, nous avons reçu notre liscence touchdesigner donc nous avons pu voir notre visuel en plus grande résolution.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -193,30 +188,26 @@ De plus, j'ai fait les tests pour les écouteurs, car cela pose un défie d'avoi
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ tout fonctionne bien par contre on doit solidifier le fonctionnement du tof, car desfois il bug, mais nous ne trouvons pas pourquoi et quand on le reset il refonctionne correctement
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
+en essayant en pleine résolution l'ordinateur a besoin de plus de ressource et notre projet devient beaucoup plus demendant, donc les images par secondes sont affecté, en basse résolutions nous étions toujours stable à 60 fps, mais depuis que le visuel est en pleine résolution les fps déscendre à 30 fps et défois moin quand le visuel est très exité. pour remédier au problème je vais ecrire un script qui arrete de faire les rendu des scenes qui ne sont pas utiliser, car maintenent il y a seulement une switch qui alterne entre les paysage visuel, mais même si on ne voit pas le viseul il est quand même rendu su rle gpu en arrière plan, donc le script devrait aider. Et nous allon mettre le patch de vcv rack sur un autre ordinateur pour etre sur que l'ordinateur principale ne soit pas trop surchargé 
 
 ---
 ## Semaine 6
