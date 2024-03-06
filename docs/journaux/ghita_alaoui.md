@@ -134,7 +134,7 @@ Le principal défi sera d'essayer de faire un rendu 3 caméra pour le visuel.
 
 ### Image d'une réalisation dont tu es la plus fière
 
-Mettre Moadboard ici
+![Image du moodboard visuel](medias/ghita_alaoui/image_realisation_fiere_s4.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
