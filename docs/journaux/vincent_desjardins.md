@@ -207,6 +207,11 @@ de plus, nous avons reçu notre liscence touchdesigner donc nous avons pu voir n
 
 ### Défis pour la prochaine semaine
 en essayant en pleine résolution l'ordinateur a besoin de plus de ressource et notre projet devient beaucoup plus demendant, donc les images par secondes sont affecté, en basse résolutions nous étions toujours stable à 60 fps, mais depuis que le visuel est en pleine résolution les fps déscendre à 30 fps et défois moin quand le visuel est très exité. pour remédier au problème je vais ecrire un script qui arrete de faire les rendu des scenes qui ne sont pas utiliser, car maintenent il y a seulement une switch qui alterne entre les paysage visuel, mais même si on ne voit pas le viseul il est quand même rendu su rle gpu en arrière plan, donc le script devrait aider. Et nous allon mettre le patch de vcv rack sur un autre ordinateur pour etre sur que l'ordinateur principale ne soit pas trop surchargé 
+Finalement j'ai retravailler sur le projet chez moi jeudi, car j'avais du temps et j'ai fais un script qui permet d'activé et déactiver les rendu en faisant référence a l'index de la switch qui fait le changement de scene dans le projet.
+
+Sur mon ordinateur je vois une amélioration majeur des fps, car quand les 3 rendus sont activé en même temps le projet roule a 30 fps mais avec l'implémentation du code je roule a 60 fps. Par contre les rendus sur mon ordinateur sont limités à 1280x240, car je n'est pas la liscence comme a l'école qui nous permet de faire les rendus à 3640x720, mais je suis convaincu que puisque sur mon ordinateur il y a eu une nette amélioration il va aussi en avoir une sur l'ordinateur à l'école qui va rouler notre projet
+
+![podium interne](medias/vincent_desjardins/chopExecute_cooking.JPG)
 
 ---
 ## Semaine 6
