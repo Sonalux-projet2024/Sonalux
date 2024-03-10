@@ -226,40 +226,32 @@ Finalisation du projet
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+- Installer les crochets pour les écouteurs
+- Percer les trous pour les fils d'écouteurs
+- Changer le code des Key unit afin d'avoir des couleurs qui correspond au projet
+- Trouver les boutons pour les potentiomètre et les ajuster afin qui rentre sur les potentiomètres
+- Changer la disposition des TOF range unit
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![bouton.png](medias/antoine_haddad/bouton.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
-#### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
-
+- Agrandir les trous de la plaquette du dessous afin qu'elle accueillir les nouveaux boutons des potentiomètre
+- Installer le spotlight au-dessus du podium
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
