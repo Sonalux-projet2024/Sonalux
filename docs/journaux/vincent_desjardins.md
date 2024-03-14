@@ -216,7 +216,7 @@ Sur mon ordinateur je vois une amélioration majeur des fps, car quand les 3 ren
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+Cette semaine est spécial, car nous pouvons enfin dire mission accompli ou presque! Mercredi matin nous avons finalement déplacé l'ordinateur de contrôle qui étais au milieu de l'instalation, pour nous permettre de travailler plus facilement, vers la salle des matrices. Ensuite, mercredi et jeudi nous avons reçu les étudiants de première année, dans le cadre de leur cours de muséologie, pour qu'il puisse venir voir nos avancement et tester nos projet. Nous avons reçus plusieurs commentaires positifs a l'égard de notre projet et cela nous a fait resentir beaucoup de fièrté au sein de notre équipe. Lors de leur visite cela nous a permis aussi de faire une dernière ronde de controle qualité et tout fonctionne bien a l'exception d'un des capteurs(le capteur TOF)
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -224,31 +224,23 @@ Sur mon ordinateur je vois une amélioration majeur des fps, car quand les 3 ren
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+ Tout ce que nous avions planifier pour cette semaine s'est réalisé
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
+régler le problème du tof: je vais changer le code dans touchdesigner pour qu'il ignore la valeur 0 du tof, car j'ai remarqué que le tof desfois a tendance a commencer a bugger quand il ny a personne dans son champs de vision. il saute de 0 à 8xxx, mais notre trigger pour activer l'instalation est à 250 donc ignorer la valeur 0 ne causera pas de problème au fonctionnement de l'instalation.
 
 ---
 ## Semaine 7
