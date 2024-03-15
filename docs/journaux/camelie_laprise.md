@@ -327,6 +327,7 @@ Compléter le projet.
 - Faire la carte du bloc C au 1ère étage du collège pour le comité Signalétique.
 - Prendre des vidéos de l'installation et lors des visites pour les deux vidéos.
 - Monter la vidéo courte.
+- Remplir le journal collectif. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
