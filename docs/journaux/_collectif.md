@@ -71,7 +71,7 @@ Enfin, nous avons commencé à installer les projecteurs et les haut-parleurs da
 
 Tout d'abord, comme prévu, nous avons poursuivi l'installation des projecteurs ainsi que des haut-parleurs. Ces derniers étaient positionnés trop hauts et le son était dirigé trop loin derrière le podium, donc nous avons dû les réinstallés pour les accrocher sur des pôles extensibles permettant qu'ils soient directement directionnés vers l'endroit où l'interacteur est amené à se placer. Plusieurs difficultés se sont présentés lors de l'installation des projecteurs, notamment la position donnée à chacun qui doit empêcher la formation d'une superposition entre les projections ou d'une ombre dessiné par les projecteurs sur la projection. Il y avait également la présence de barres blanches à faire disparaître. De plus, de nouvelles modifications ont été inclues.
 
-
+[![Thumbnail video installation projecteurs s4](https://img.youtube.com/shorts/nnw0baTjpvs/0.jpg)](https://www.youtube.com/shorts/nnw0baTjpvs)
 
 Par la suite, nous avons officialisé notre logo et notre bannière suite aux commentaires reçus par Thomas et nous avons aussi modifié la vidéo d'intention pour s'assurer qu'elle soit à jour avec les changements que nous avons apportés au projet. 
 
