@@ -197,6 +197,8 @@ Commencer à peinturer le podium.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+> Vidéo démontrant l'application de peinture noire sur le podium. 
+
 [![Thumbnail video podium](https://img.youtube.com/vi/jYz8WghV8xQ/0.jpg)](https://www.youtube.com/watch?v=jYz8WghV8xQ)
 
 ![Image du podium peinturé en noir](medias/camelie_laprise/image_realisation_fiere_s5.png)
@@ -290,6 +292,8 @@ Placer les tubes DEL.
 - Remplir le journal collectif. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+
+> Vidéo démontrant l'ajout de ruban adhésif sur les tubes DEL.
 
 [![Thumbnail video tubes DEl](https://img.youtube.com/vi/KlZB4ZFZi1I/0.jpg)](https://www.youtube.com/shorts/KlZB4ZFZi1I)
 
