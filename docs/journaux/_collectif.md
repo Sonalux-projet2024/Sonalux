@@ -70,7 +70,7 @@ Par la suite, nous avons officialisé notre logo et notre bannière suite aux co
 
 Enfin, nous avons continué d'avancer sur la ligne du temps sur laquelle progresse l'expérience. 
 
-
+[![Thumbnail video demo](https://img.https://www.youtube.com/watch?v=OIBLflAaeos.jpg)](https://www.https://www.youtube.com/watch?v=OIBLflAaeos)
 
 On a bien hâte de voir le projet se concrétiser davantage dans les lieux physiques. À suivre
 
