@@ -297,6 +297,8 @@ Placer les tubes DEL.
 
 [![Thumbnail video tubes DEl](https://img.youtube.com/vi/KlZB4ZFZi1I/0.jpg)](https://www.youtube.com/shorts/KlZB4ZFZi1I)
 
+![Image de l'ajout de ruban adhésif sur les tubes DEL](medias/camelie_laprise/image_ajout_ruban_tubes.PNG)
+
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [x] Complètement
