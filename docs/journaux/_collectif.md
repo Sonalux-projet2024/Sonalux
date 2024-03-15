@@ -26,7 +26,7 @@ Enfin, nous avons également commencer à réfléchir et à créer une première
 
 ![Image de la première esquisse du logo](medias/collectif/image_esquisse_logo_s1.png)
 
-On a bien hâte de voir le projet se concrétiser davantage dans les lieux physiques. À suivre
+À suivre.
 
 ## Semaine 2
 > Cette semaine a été parsemée de réalisations et d'apprentissage.
@@ -45,7 +45,7 @@ Enfin, nous avons filmé la vidéo d'intention du projet et nous avons détermin
 
 ![Image de l'installation](medias/collectif/image_installation_s2.png)
 
-On a bien hâte de voir le projet se concrétiser davantage dans les lieux physiques. À suivre
+À suivre.
 
 ## Semaine 3
 > Cette semaine a été parsemée de changements et de progressions.
@@ -64,7 +64,7 @@ Enfin, nous avons commencé à installer les projecteurs et les haut-parleurs da
 
 ![Image de l'installation](medias/collectif/image_installation_s3.png)
 
-On a bien hâte de voir le projet se concrétiser davantage dans les lieux physiques. À suivre
+À suivre.
 
 ## Semaine 4
 > Cette semaine a été parsemée de difficultés et de modifications.  
@@ -85,7 +85,7 @@ Enfin, nous avons continué d'avancer sur la ligne du temps sur laquelle progres
 
 [![Thumbnail video progression s4](https://img.youtube.com/vi/OIBLflAaeos/0.jpg)](https://www.youtube.com/watch?v=OIBLflAaeos)
 
-On a bien hâte de voir le projet se concrétiser davantage dans les lieux physiques. À suivre
+À suivre.
 
 ## Semaine 5
 > Cette semaine a été parsemée d'analyse.
@@ -100,6 +100,8 @@ Enfin, nous avons décidé de remplacer la Kinect par les ToF Unit qui permettro
 
 [![Thumbnail video ToF](https://img.youtube.com/vi/EicDNMR21hM/0.jpg)](https://www.youtube.com/watch?v=EicDNMR21hM)
 
+À suivre.
+
 ## Semaine 6
 > Cette semaine a été parsemée de progrès. 
 
@@ -112,6 +114,8 @@ Enfin, nous avons commencé la perforation des trous dans le podium.
 > Vidéo courte démontrant la perforation des trous. 
 
 [![Thumbnail video perforation](https://img.youtube.com/vi/fnAVhQdhF2I/0.jpg)](https://www.youtube.com/watch?v=fnAVhQdhF2I)
+
+À suivre.
 
 ## Semaine 7
 > Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
