@@ -117,6 +117,8 @@ Enfin, nous avons commencé la perforation des trous dans le podium.
 
 [![Thumbnail video perforation](https://img.youtube.com/vi/fnAVhQdhF2I/0.jpg)](https://www.youtube.com/watch?v=fnAVhQdhF2I)
 
+![Image de la perforation des trous](medias/collectif/image_perforation.png)
+
 À suivre.
 
 ## Semaine 7
