@@ -291,7 +291,7 @@ Placer les tubes DEL.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-[![Thumbnail video tubes DEl](https://img.youtube.com/vi/KlZB4ZFZi1I/0.jpg)](https://www.youtube.com/watch?v=KlZB4ZFZi1I)
+[![Thumbnail video tubes DEl](https://img.youtube.com/vi/KlZB4ZFZi1I/0.jpg)](https://www.youtube.com/shorts/KlZB4ZFZi1I)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
