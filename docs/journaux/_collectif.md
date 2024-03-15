@@ -83,7 +83,7 @@ Enfin, nous avons continué d'avancer sur la ligne du temps sur laquelle progres
 
 > Vidéo courte démontrant l'avancement du projet. 
 
-[![Thumbnail video progression s4](https://img.youtube.com/vi/OIBLflAaeos/0.jpg)](https://www.youtube.com/watch?v=OIBLflAaeos)
+[![Thumbnail video progression s4](https://img.youtube.com/vi/OIBLflAaeos/0.jpg)](https://www.youtube.com/shorts/OIBLflAaeos)
 
 À suivre.
 
