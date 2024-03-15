@@ -81,6 +81,8 @@ Par la suite, nous avons officialisé notre logo et notre bannière suite aux co
 
 Enfin, nous avons continué d'avancer sur la ligne du temps sur laquelle progresse l'expérience. 
 
+> Vidéo courte démontrant l'avancement du projet. 
+
 [![Thumbnail video progression s4](https://img.youtube.com/vi/OIBLflAaeos/0.jpg)](https://www.youtube.com/watch?v=OIBLflAaeos)
 
 On a bien hâte de voir le projet se concrétiser davantage dans les lieux physiques. À suivre
@@ -94,6 +96,8 @@ Par la suite, nous avons pousuivi les avancements sur le podium.
 
 Enfin, nous avons décidé de remplacer la Kinect par les ToF Unit qui permettront l'activation de notre expérience par la détection de présence d'un interacteur. 
 
+> Vidéo courte démontrant l'installation des atoms POE dans le podium dont celui relié aux ToF Unit. 
+
 [![Thumbnail video ToF](https://img.youtube.com/vi/EicDNMR21hM/0.jpg)](https://www.youtube.com/watch?v=EicDNMR21hM)
 
 ## Semaine 6
@@ -104,6 +108,8 @@ Tout d'abord, comme prévu, nous avons créé les deux nouveaux paysages visuels
 Par la suite, nous avons continué à travailler sur le déroulement de la progression de la boucle.
 
 Enfin, nous avons commencé la perforation des trous dans le podium.
+
+> Vidéo courte démontrant la perforation des trous. 
 
 [![Thumbnail video perforation](https://img.youtube.com/vi/fnAVhQdhF2I/0.jpg)](https://www.youtube.com/watch?v=fnAVhQdhF2I)
 
