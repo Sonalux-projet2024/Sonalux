@@ -197,6 +197,8 @@ Commencer à peinturer le podium.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+[![Thumbnail video podium](https://img.youtube.com/vi/jYz8WghV8xQ/0.jpg)](https://www.youtube.com/watch?v=jYz8WghV8xQ)
+
 ![Image du podium peinturé en noir](medias/camelie_laprise/image_realisation_fiere_s5.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
