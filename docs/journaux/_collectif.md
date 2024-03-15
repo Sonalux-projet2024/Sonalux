@@ -124,6 +124,14 @@ Enfin, nous avons commencé la perforation des trous dans le podium.
 ## Semaine 7
 > Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
 
+Cette semaine a été parsemée de 
+
+Tout d'abord, comme prévu, nous avons déplacé le chariot portant l'ordinateur dans la salle des matrices et avons tout reconnecté nos fils à partir de cette salle de contrôle. 
+
+Par la suite, nous avons reçu à nouveau la visite des étudiants et étudiantes en première année de TIM dont nous avons profité de l'occasion pour filmer leurs interactions avec l'installation dans le but d'utiliser ces vidéos pour la vidéo de documentation. Nous avons également observé un problème avec les ToF Unit qui étaient trop sensibles ainsi cela faisait que les scènes changeaient constamment créant un effet d'instabilité à l'expérience. 
+
+Enfin, 
+
 ## Semaine 8
 
 
