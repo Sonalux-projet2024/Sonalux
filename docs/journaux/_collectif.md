@@ -101,7 +101,7 @@ Enfin, nous avons décidé de remplacer la Kinect par les ToF Unit qui permettro
 [![Thumbnail video ToF](https://img.youtube.com/vi/EicDNMR21hM/0.jpg)](https://www.youtube.com/watch?v=EicDNMR21hM)
 
 ## Semaine 6
-Cette semaine a été parsemée de 
+Cette semaine a été parsemée de progrès. 
 
 Tout d'abord, comme prévu, nous avons créé les deux nouveaux paysages visuels menant ainsi vers certaines modifications a apportées dans la préproduction. 
 
