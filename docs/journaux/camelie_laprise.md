@@ -289,6 +289,8 @@ Placer les tubes DEL.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+[![Thumbnail video tubes DEl](https://img.youtube.com/vi/KlZB4ZFZi1I/0.jpg)](https://www.youtube.com/watch?v=KlZB4ZFZi1I)
+
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [x] Complètement
@@ -322,6 +324,9 @@ Compléter le projet.
 ## Semaine 7
 ### Résumé des réalisations effectuées
 - Peinturer les vis sur le podium en noir.
+- Faire la carte du bloc C au 1ère étage du collège pour le comité Signalétique.
+- Prendre des vidéos de l'installation et lors des visites pour les deux vidéos.
+- Monter la vidéo courte.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
