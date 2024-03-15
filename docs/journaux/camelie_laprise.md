@@ -338,8 +338,7 @@ Compléter le projet.
 - Remplir le journal collectif. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![Image du monatge de la vidéo courte](medias/camelie_laprise/image_realisation_fiere_s7.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
