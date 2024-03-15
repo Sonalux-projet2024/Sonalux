@@ -70,7 +70,7 @@ Par la suite, nous avons officialisé notre logo et notre bannière suite aux co
 
 Enfin, nous avons continué d'avancer sur la ligne du temps sur laquelle progresse l'expérience. 
 
-[![Thumbnail video demo](https://img.youtube.com/vi/OIBLflAaeos/0.jpg)](https://www.youtube.com/watch?v=OIBLflAaeos)
+[![Thumbnail video progression s4](https://img.youtube.com/vi/OIBLflAaeos/0.jpg)](https://www.youtube.com/watch?v=OIBLflAaeos)
 
 On a bien hâte de voir le projet se concrétiser davantage dans les lieux physiques. À suivre
 
@@ -83,14 +83,18 @@ Par la suite, nous avons pousuivi les avancements sur le podium.
 
 Enfin, nous avons décidé de remplacer la Kinect par les ToF Unit qui permettront l'activation de notre expérience par la détection de présence d'un interacteur. 
 
+[![Thumbnail video ToF](https://img.youtube.com/vi/EicDNMR21hM/0.jpg)](https://www.youtube.com/watch?v=EicDNMR21hM)
+
 ## Semaine 6
 Cette semaine a été parsemée de 
 
 Tout d'abord, comme prévu, nous avons créé les deux nouveaux paysages visuels menant ainsi vers certaines modifications a apportées dans la préproduction. 
 
-Par la suite, nous avons 
+Par la suite, nous avons continué à travailler sur le déroulement de la progression de la boucle.
 
 Enfin, nous avons commencé la perforation des trous dans le podium.
+
+
 
 ## Semaine 7
 > Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
