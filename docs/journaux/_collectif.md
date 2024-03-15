@@ -1,5 +1,16 @@
 # Journal de création
 
+* [Semaine 1](#semaine-1)
+* [Semaine 2](#semaine-2)
+* [Semaine 3](#semaine-3)
+* [Semaine 4](#semaine-4)
+* [Semaine 5](#semaine-5)
+* [Semaine 6](#semaine-6)
+* [Semaine de rattrapage](#semaine-de-rattrapage)
+* [Semaine 7](#semaine-7)
+* [Semaine 8](#semaine-8)
+* [Semaine 9](#semaine-9)
+
 ## Semaine 1
 > Cette semaine a été parsemée de corrections et de réflexions.
 
@@ -94,7 +105,7 @@ Par la suite, nous avons continué à travailler sur le déroulement de la progr
 
 Enfin, nous avons commencé la perforation des trous dans le podium.
 
-
+[![Thumbnail video ToF](https://img.youtube.com/vi/EicDNMR21hM/0.jpg)](https://www.youtube.com/watch?v=EicDNMR21hM)
 
 ## Semaine 7
 > Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
