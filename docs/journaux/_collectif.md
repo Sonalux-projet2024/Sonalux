@@ -105,7 +105,7 @@ Par la suite, nous avons continué à travailler sur le déroulement de la progr
 
 Enfin, nous avons commencé la perforation des trous dans le podium.
 
-[![Thumbnail video ToF](https://img.youtube.com/vi/EicDNMR21hM/0.jpg)](https://www.youtube.com/watch?v=EicDNMR21hM)
+[![Thumbnail video perforation](https://img.youtube.com/vi/fnAVhQdhF2I/0.jpg)](https://www.youtube.com/watch?v=fnAVhQdhF2I)
 
 ## Semaine 7
 > Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
