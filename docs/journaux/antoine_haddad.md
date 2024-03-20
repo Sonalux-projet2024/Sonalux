@@ -222,7 +222,10 @@ Malheursement, les crochets prévu afin de tenir les écouteurs étaient trop pe
 Nous devons en commander d'autre.
 
 ### Défis pour la prochaine semaine
-Finalisation du projet
+- Installer les écouteurs sur les côtés
+- Trouver les boutons à potentiomètres
+- Finalisation du projet
+
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
