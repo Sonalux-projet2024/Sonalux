@@ -94,7 +94,7 @@ Enfin, nous avons continué d'avancer sur la ligne du temps sur laquelle progres
 
 Tout d'abord, comme prévu, nous avons reçu la visite des étudiants et étudiantes de première année de TIM qui nous a permis d'avoir des rétrospectives sur notre projet et ainsi trouver des solutions sur les problèmes observés. Par exemple, nous avons remarqué que plusieurs ne regardent pas spécialement le visuel, car ils sont trop concentrés à écouter le son, ainsi nous avons décidé de les laisser expérimenter sans leur apposer aucune limite de temps pour qu'ils découvrent et prennent conscience graduellement de l'univers qu'il créé à leur rythme. 
 
-Par la suite, nous avons pousuivi les avancements sur le podium. 
+Par la suite, nous avons poursuivi les avancements sur le podium. 
 
 Enfin, nous avons décidé de remplacer la Kinect par les ToF Unit qui permettront l'activation de notre expérience par la détection de présence d'un interacteur. 
 
