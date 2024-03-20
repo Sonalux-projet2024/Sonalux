@@ -255,42 +255,26 @@ Finalisation du projet
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+- Installation du spotlight
+- Finalisation de la plaquette du podium
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![spotlight.png](medias/antoine_haddad/spotlight.png)
+![plaquette_fin.png](medias/antoine_haddad/plaquette_fin.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
-#### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
-### Défis pour la prochaine semaine
-
-
-## Semaine 8
-
-
-## Semaine 9
+### Résultat attendu; très fier du projet!
