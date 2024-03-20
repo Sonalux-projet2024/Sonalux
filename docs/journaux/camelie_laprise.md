@@ -371,11 +371,11 @@ Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assig
 
 ## Semaine 8
 ### Résumé des réalisations effectuées
-- Être présente à l'exposition, au vernissage.
+- Être présente à l'exposition et au vernissage.
 - Démonter l'installation. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Image du monatge de la vidéo courte](medias/camelie_laprise/image_realisation_fiere_s7.png)
+![Image du monatge de la vidéo courte](medias/camelie_laprise/image_realisation_fiere_s8.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -401,5 +401,3 @@ Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assig
 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-## Semaine 9
