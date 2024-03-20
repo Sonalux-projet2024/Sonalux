@@ -10,7 +10,6 @@
 * [Semaine de rattrapage](#semaine-de-rattrapage)
 * [Semaine 7](#semaine-7)
 * [Semaine 8](#semaine-8)
-* [Semaine 9](#semaine-9)
 
 ## Semaine 1
 
