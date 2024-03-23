@@ -139,9 +139,7 @@ Comme prévu, nous avons installé les crochets destinés aux casques d'écouteu
 À suivre.
 
 ## Semaine 7
-> Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
-
-Cette semaine a été parsemée de dernières finalités. 
+> Cette semaine a été parsemée de dernières finalités. 
 
 Tout d'abord, comme prévu, nous avons déplacé le chariot portant l'ordinateur dans la salle des matrices et avons tout reconnecté nos fils à partir de cette salle de contrôle. 
 
