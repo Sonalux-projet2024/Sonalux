@@ -152,7 +152,7 @@ Tout d'abord, comme prévu, nous avons déplacé le chariot portant l'ordinateur
 
 [![Thumbnail video transfert dans salle des matrices](https://img.youtube.com/vi/wGHHrPQUDfg/0.jpg)](https://www.youtube.com/watch?v=wGHHrPQUDfg)
 
-Par la suite, nous avons fait imprimé et installé les pattes construites pour les tubes DEL posés au sol. 
+Par la suite, nous avons terminé l'installation des tubes DEL au sol, puis nous avons fait imprimé et installé les pattes construites pour ceux-ci. 
 
 > Vidéo courte démontrant l'imprimerie d'une des pattes des tubes DEL. 
 
