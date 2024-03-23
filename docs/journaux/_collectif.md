@@ -94,9 +94,11 @@ Enfin, nous avons continué d'avancer sur la ligne du temps sur laquelle progres
 
 Tout d'abord, comme prévu, nous avons reçu la visite des étudiants et étudiantes de première année de TIM qui nous a permis d'avoir des rétrospectives sur notre projet et ainsi trouver des solutions sur les problèmes observés. Par exemple, nous avons remarqué que plusieurs ne regardent pas spécialement le visuel, car ils sont trop concentrés à écouter le son, ainsi nous avons décidé de les laisser expérimenter sans leur apposer aucune limite de temps pour qu'ils découvrent et prennent conscience graduellement de l'univers qu'il créé à leur rythme. 
 
-Par la suite, nous avons poursuivi les avancements sur le podium. 
+> Vidéo courte démontrant la première visite des étudiants et étudiantes de première année en TIM.
 
-Enfin, nous avons décidé de remplacer la Kinect par les ToF Unit qui permettront l'activation de notre expérience par la détection de présence d'un interacteur. 
+[![Thumbnail video première visite](https://img.youtube.com/vi/-m5IWxtj6BI/0.jpg)](https://www.youtube.com/watch?v=-m5IWxtj6BI)
+
+Par la suite, nous avons décidé de remplacer la Kinect par les ToF Unit qui permettront l'activation de notre expérience par la détection de présence d'un interacteur. 
 
 > Vidéo courte démontrant l'installation des atoms POE dans le podium dont celui relié aux ToF Unit. 
 
@@ -108,6 +110,10 @@ Enfin, nous avons décidé de remplacer la Kinect par les ToF Unit qui permettro
 > Cette semaine a été parsemée de progrès. 
 
 Tout d'abord, comme prévu, nous avons créé les deux nouveaux paysages visuels menant ainsi vers certaines modifications a apportées dans la préproduction. 
+
+> Vidéo courte démontrant l'essai d'un nouveau paysage visuel génératif. 
+
+[![Thumbnail video essai paysage visuel](https://img.youtube.com/vi/1g-by31G8X4/0.jpg)](https://www.youtube.com/watch?v=1g-by31G8X4)
 
 Par la suite, nous avons continué à travailler sur le déroulement de la progression de la boucle.
 
@@ -128,9 +134,21 @@ Cette semaine a été parsemée de
 
 Tout d'abord, comme prévu, nous avons déplacé le chariot portant l'ordinateur dans la salle des matrices et avons tout reconnecté nos fils à partir de cette salle de contrôle. 
 
-Par la suite, nous avons reçu à nouveau la visite des étudiants et étudiantes en première année de TIM dont nous avons profité de l'occasion pour filmer leurs interactions avec l'installation dans le but d'utiliser ces vidéos pour la vidéo de documentation. Nous avons également observé un problème avec les ToF Unit qui étaient trop sensibles ainsi cela faisait que les scènes changeaient constamment créant un effet d'instabilité à l'expérience. 
+> Vidéo courte démontrant le transfert de l'ordinateur dans la salle des matrices. 
 
-Enfin, 
+[![Thumbnail video transfert dans salle des matrices](https://img.youtube.com/vi/wGHHrPQUDfg/0.jpg)](https://www.youtube.com/watch?v=wGHHrPQUDfg)
+
+Par la suite, nous avons fait imprimé et installé les pattes construites pour les tubes DEL posés au sol. 
+
+> Vidéo courte démontrant l'imprimerie d'une des pattes des tubes DEL. 
+
+[![Thumbnail video imprimerie](https://img.youtube.com/vi/1RcnYZQLiVY/0.jpg)](https://www.youtube.com/watch?v=1RcnYZQLiVY)
+
+Enfin, nous avons reçu à nouveau la visite des étudiants et étudiantes en première année de TIM dont nous avons profité de l'occasion pour filmer leurs interactions avec l'installation dans le but d'utiliser ces vidéos pour la vidéo de documentation. Nous avons également observé un problème avec les ToF Unit qui étaient trop sensibles ainsi cela faisait que les scènes changeaient constamment créant un effet d'instabilité à l'expérience. 
+
+> Vidéo courte démontrant la deuxième visite des étudiants et étudiantes de première année en TIM.
+
+[![Thumbnail video imprimerie](https://img.youtube.com/vi/8Sgh3l-h3DY/0.jpg)](https://www.youtube.com/watch?v=8Sgh3l-h3DY)
 
 ## Semaine 8
 
