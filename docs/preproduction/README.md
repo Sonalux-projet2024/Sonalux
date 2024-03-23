@@ -101,7 +101,7 @@ Sonalux est une expérience qui se distingue par son environnement visuel et son
 > ![Schéma de branchement de la boîte sonore](medias/schemas/schema_branchement_boite_sonore.png)
 
 ## Installation
-L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans les herses, il y a deux hauts-parleurs ainsi que 3 projecteurs accrochés afin de projeter les sons génératifs et trois projections génératives. Au centre de l'installation se trouve un podium qui sert à contrôler les différents paysages sonores et visuels de l'expérience. Pour ce faire, l'interacteur va utiliser les composantes M5Stack placées au dessus du podium, c'est-à-dire les Angle Unit et les Key Unit. Le podium est décoré de tubes DEL sur le devant qui sont synchronisés avec l'expérience tel que ceux qui sont disposés au sol. 
+L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans les herses, il y a deux hauts-parleurs ainsi que 3 projecteurs accrochés afin de projeter les sons génératifs et trois projections visuelles génératives. Au centre de l'installation se trouve un podium qui sert à contrôler les différents paysages sonores et visuels de l'expérience. Pour ce faire, l'interacteur va utiliser les composantes M5Stack placées au dessus du podium, c'est-à-dire les Angle Unit et les Key Unit. Le podium est décoré de tubes DEL sur le devant qui sont synchronisés avec l'expérience tel que ceux qui sont disposés au sol. 
 
 ## Matériel de scénographie requis
 
