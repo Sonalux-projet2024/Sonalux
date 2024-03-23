@@ -371,7 +371,7 @@ Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assig
 ## Semaine 8
 ### Résumé des réalisations effectuées
 - Être présente à l'exposition et au vernissage.
-- Démonter l'installation. 
+- Remettre tout le matériel emprunté aux TTP. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Image du monatge de la vidéo courte](medias/camelie_laprise/image_realisation_fiere_s8.png)
@@ -384,7 +384,7 @@ Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assig
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assignées dans le lapse de temps qui m'était donné, c'est-à-dire une semaine. 
+Parce que j'ai rempli l'ensemble de mes responsabilités. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
