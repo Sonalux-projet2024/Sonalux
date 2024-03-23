@@ -127,10 +127,21 @@ Enfin, nous avons commencé la perforation des trous dans le podium.
 
 À suivre.
 
+## Semaine de rattrapage
+> Cette semaine a été parsemée de finitions. 
+
+Comme prévu, nous avons installé les crochets destinés aux casques d'écouteurs et nous avons finalisé le podium en plaçant les tubes DEL sur le devant de ce dernier, puis cachant avec du ruban adhésif noir, les ToF Unit situés devant également. 
+
+> Vidéo courte démontrant l'installation des crochets sur le podium.
+
+[![Thumbnail video installation crochets](https://img.youtube.com/vi/JZrqsAcPPy4/0.jpg)](https://www.youtube.com/watch?v=JZrqsAcPPy4)
+
+À suivre.
+
 ## Semaine 7
 > Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
 
-Cette semaine a été parsemée de 
+Cette semaine a été parsemée de dernières finalités. 
 
 Tout d'abord, comme prévu, nous avons déplacé le chariot portant l'ordinateur dans la salle des matrices et avons tout reconnecté nos fils à partir de cette salle de contrôle. 
 
