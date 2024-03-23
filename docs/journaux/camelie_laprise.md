@@ -312,7 +312,7 @@ Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assig
 - [ ] Pas tout à fait
 
 ### Défis pour la prochaine semaine
-Être prêt pour l'exposition.
+Être prête pour l'exposition.
 
 ## Semaine 8
 ### Résumé des réalisations effectuées
