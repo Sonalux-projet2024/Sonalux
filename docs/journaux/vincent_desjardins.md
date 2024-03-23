@@ -245,7 +245,7 @@ régler le problème du tof: je vais changer le code dans touchdesigner pour qu'
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+cette semaine nous avons presenté notre projet su public
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -253,7 +253,7 @@ régler le problème du tof: je vais changer le code dans touchdesigner pour qu'
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -266,7 +266,7 @@ régler le problème du tof: je vais changer le code dans touchdesigner pour qu'
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
