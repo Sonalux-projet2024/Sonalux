@@ -129,11 +129,17 @@ Enfin, nous avons commencé la perforation des trous dans le podium.
 ## Semaine de rattrapage
 > Cette semaine a été parsemée de finitions. 
 
-Comme prévu, nous avons installé les crochets destinés aux casques d'écouteurs et nous avons finalisé le podium en plaçant les tubes DEL sur le devant de ce dernier, puis cachant avec du ruban adhésif noir, les ToF Unit situés devant également. 
+Tout d'abord, comme prévu, nous avons installé les crochets destinés aux casques d'écouteurs et nous avons finalisé le podium en plaçant les tubes DEL sur le devant de ce dernier, puis cachant avec du ruban adhésif noir, les ToF Unit situés devant également. 
 
 > Vidéo courte démontrant l'installation des crochets sur le podium.
 
 [![Thumbnail video installation crochets](https://img.youtube.com/vi/JZrqsAcPPy4/0.jpg)](https://www.youtube.com/watch?v=JZrqsAcPPy4)
+
+Par la suite, nous avons commencé à placer les tubes DEL dans l'installation et ainsi y rajouter du ruban adhésif noir pour couvrir une partie de ceux-ci dans le but d'éviter leur réflexion sur les murs. 
+
+> Vidéo démontrant l'ajout de ruban adhésif sur les tubes DEL.
+
+[![Thumbnail video tubes DEl](https://img.youtube.com/vi/KlZB4ZFZi1I/0.jpg)](https://www.youtube.com/shorts/KlZB4ZFZi1I)
 
 À suivre.
 
