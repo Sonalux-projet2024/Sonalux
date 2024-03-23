@@ -196,7 +196,7 @@ Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assig
 - [ ] Pas tout à fait
 
 ### Défis pour la prochaine semaine
-Commencer à organiser et à ranger l'espace en fonction de la semaine d'expositions.
+Commencer à organiser et à ranger l'espace en fonction de la semaine d'exposition.
 
 ---
 ## Semaine 6
