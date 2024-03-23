@@ -36,18 +36,12 @@
 #### Décrivez pourquoi.
 Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assignées dans le lapse de temps qui m'était donné, c'est-à-dire une semaine.   
 
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 ### Défis pour la prochaine semaine
 Apprendre et maîtriser le logiciel TouchDesigner. 
@@ -75,21 +69,12 @@ Apprendre et maîtriser le logiciel TouchDesigner.
 #### Décrivez pourquoi.
 Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assignées dans le lapse de temps qui m'était donné, c'est-à-dire une semaine.   
 
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
 Projeter trois projections au moyen de trois projecteurs sur les trois murs utilisés 
@@ -168,21 +153,12 @@ Lier chaque composante sur le podium à un paramètre dans le visuel de la scèn
 #### Décrivez pourquoi.
 Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assignées dans le lapse de temps qui m'était donné, c'est-à-dire une semaine.   
 
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
 Commencer à peinturer le podium.
@@ -212,21 +188,12 @@ Commencer à peinturer le podium.
 #### Décrivez pourquoi.
 Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assignées dans le lapse de temps qui m'était donné, c'est-à-dire une semaine.   
 
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
 Commencer à organiser et à ranger l'espace en fonction de la semaine d'expositions.
@@ -262,9 +229,6 @@ Commencer à organiser et à ranger l'espace en fonction de la semaine d'exposit
 
 #### Décrivez pourquoi.
 Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assignées dans le lapse de temps qui m'était donné, c'est-à-dire une semaine.  
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -308,21 +272,12 @@ Placer les tubes DEL.
 #### Décrivez pourquoi.
 Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assignées dans le lapse de temps qui m'était donné, c'est-à-dire une semaine. 
 
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
 Compléter le projet. 
@@ -349,21 +304,12 @@ Compléter le projet.
 #### Décrivez pourquoi.
 Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assignées dans le lapse de temps qui m'était donné, c'est-à-dire une semaine. 
 
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
 Être prêt pour l'exposition.
@@ -386,17 +332,9 @@ Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assig
 #### Décrivez pourquoi.
 Parce que j'ai rempli l'ensemble de mes responsabilités. 
 
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
