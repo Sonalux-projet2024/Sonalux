@@ -123,7 +123,8 @@ L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans 
     * 3 projecteurs vidéo lentille grand angle 0.5
 
 * Lumière
-    * Tubes DEL
+    * 12 tubes DEL
+    * Spotlight
 
 * Électricité
     * 4 cordons IEC (pour l'alimentation des haut-parleurs)
