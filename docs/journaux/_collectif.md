@@ -116,6 +116,8 @@ Tout d'abord, comme prévu, nous avons créé les deux nouveaux paysages visuels
 
 Par la suite, nous avons continué à travailler sur le déroulement de la progression de la boucle.
 
+![Image du travail sur l'avancement de la boucle](medias/collectif/image_avancement_ligne_temps_s6.png)
+
 Enfin, nous avons commencé la perforation des trous dans le podium.
 
 > Vidéo courte démontrant la perforation des trous. 
