@@ -167,7 +167,7 @@ Enfin, nous avons reçu à nouveau la visite des étudiants et étudiantes en pr
 ## Semaine 8
 > Cette semaine a été parsemée de visites.
 
-Nous avons accueilli toute la semaine des visiteurs et des visiteuses souhaitant venir découvrir et essayer nos projets, puis nous avons démonté notre installation. 
+Nous avons accueilli toute la semaine des visiteurs et des visiteuses souhaitant venir découvrir et essayer nos projets, puis nous avons démonté notre installation et retourné le matériel emprunté.  
 
 
 
