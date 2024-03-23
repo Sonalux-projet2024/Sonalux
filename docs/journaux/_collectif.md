@@ -164,6 +164,8 @@ Enfin, nous avons reçu à nouveau la visite des étudiants et étudiantes en pr
 
 [![Thumbnail video imprimerie](https://img.youtube.com/vi/8Sgh3l-h3DY/0.jpg)](https://www.youtube.com/watch?v=8Sgh3l-h3DY)
 
+À suivre.
+
 ## Semaine 8
 > Cette semaine a été parsemée de visites.
 
