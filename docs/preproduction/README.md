@@ -84,7 +84,7 @@ Sonalux est une expérience qui se distingue par son environnement visuel et son
 ## Inventaire du contenu multimédia
 
 - 3 paysages visuels génératifs (TouchDesigner)
-- 1 paysage sonore (VCV Rack)
+- 2 paysages sonores (VCV Rack)
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
