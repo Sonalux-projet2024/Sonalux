@@ -245,7 +245,7 @@ Le principal défi pour la semaine prochaine sera d'essayer de placer les tubes 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-> Vidéo de l'installation des DEL 
+> Vidéo de l'installation des DEL :
 
 [![Thumbnail video tubes DEl](https://img.youtube.com/vi/KlZB4ZFZi1I/0.jpg)](https://www.youtube.com/shorts/KlZB4ZFZi1I)
 
