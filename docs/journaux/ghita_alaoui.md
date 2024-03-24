@@ -245,11 +245,13 @@ Le principal défi pour la semaine prochaine sera d'essayer de placer les tubes 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+> Vidéo de l'installation des DEL 
+
 [![Thumbnail video tubes DEl](https://img.youtube.com/vi/KlZB4ZFZi1I/0.jpg)](https://www.youtube.com/shorts/KlZB4ZFZi1I)
 
-Résultat :
+> Résultat :
 
-![Image de l'ajout de ruban adhésif sur les tubes DEL](medias/camelie_laprise/image_ajout_ruban_tubes.png)
+![Image du_placement_DEL](medias/ghita_alaoui/image_ajout_ruban_tubes.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -284,7 +286,7 @@ Le principal défi sera de finaliser l'installation.
 
 ### Image d'une réalisation dont tu es la plus fière
 
-![Image du monatge de la vidéo courte](medias/ghita_alaoui/image_realisation_fiere_s7.png)
+![Image du_poster_pub](medias/ghita_alaoui/image_realisation_fiere_s7.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
