@@ -282,8 +282,9 @@ Le principal défi sera de finaliser l'installation.
 - M'occuper du comité communication (courriel, publicité, affiches, etc.)
 - Prendre des vidéos de l'installation et lors des visites pour les deux vidéos.
 
-### Image d'une réalisation dont tu es la ou le plus fier
-![Image du monatge de la vidéo courte](medias/camelie_laprise/image_realisation_fiere_s7.png)
+### Image d'une réalisation dont tu es la plus fière
+
+![Image du monatge de la vidéo courte](medias/ghita_alaoui/image_realisation_fiere_s7.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
