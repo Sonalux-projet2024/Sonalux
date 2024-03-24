@@ -245,9 +245,9 @@ Le principal défi pour la semaine prochaine sera d'essayer de placer les tubes 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-> Vidéo démontrant l'ajout de ruban adhésif sur les tubes DEL.
-
 [![Thumbnail video tubes DEl](https://img.youtube.com/vi/KlZB4ZFZi1I/0.jpg)](https://www.youtube.com/shorts/KlZB4ZFZi1I)
+
+Résultat :
 
 ![Image de l'ajout de ruban adhésif sur les tubes DEL](medias/camelie_laprise/image_ajout_ruban_tubes.png)
 
@@ -259,7 +259,8 @@ Le principal défi pour la semaine prochaine sera d'essayer de placer les tubes 
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assignées dans le lapse de temps qui m'était donné, c'est-à-dire une semaine. 
+
+Parce que j'ai complété l'ensemble des tâches qui m'était assignées avec une bonne échéance.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -269,16 +270,17 @@ Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assig
 - [ ] Pas tout à fait
 
 ### Défis pour la prochaine semaine
-Compléter le projet. 
+
+Le principal défi sera de finaliser l'installation.
 
 ---
 ## Semaine 7
+
 ### Résumé des réalisations effectuées
-- Peinturer les vis sur le podium en noir.
-- Faire la carte du bloc C au 1ère étage du collège pour le comité Signalétique.
+
+- Peinturer les vis du podium
+- M'occuper du comité communication (courriel, publicité, affiches, etc.)
 - Prendre des vidéos de l'installation et lors des visites pour les deux vidéos.
-- Monter la vidéo courte.
-- Remplir le journal collectif. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Image du monatge de la vidéo courte](medias/camelie_laprise/image_realisation_fiere_s7.png)
@@ -291,7 +293,8 @@ Compléter le projet.
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assignées dans le lapse de temps qui m'était donné, c'est-à-dire une semaine. 
+
+Parce que j'ai complété l'ensemble des tâches qui m'était assignées avec une bonne échéance. 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -301,9 +304,10 @@ Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assig
 - [ ] Pas tout à fait
 
 ### Défis pour la prochaine semaine
-Être prête pour l'exposition.
+Le principal défi pour la semaine prochaine sera de s'assurer que l'installation roule tout le temps sans bugs.
 
 ## Semaine 8
+
 ### Résumé des réalisations effectuées
+
 - Être présente à l'exposition et au vernissage.
-- Remettre tout le matériel emprunté aux TTP. 
