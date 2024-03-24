@@ -245,69 +245,65 @@ Le principal défi pour la semaine prochaine sera d'essayer de placer les tubes 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-Mettre les DEL ici
+> Vidéo démontrant l'ajout de ruban adhésif sur les tubes DEL.
+
+[![Thumbnail video tubes DEl](https://img.youtube.com/vi/KlZB4ZFZi1I/0.jpg)](https://www.youtube.com/shorts/KlZB4ZFZi1I)
+
+![Image de l'ajout de ruban adhésif sur les tubes DEL](medias/camelie_laprise/image_ajout_ruban_tubes.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [X] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
+Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assignées dans le lapse de temps qui m'était donné, c'est-à-dire une semaine. 
 
-J'ai réussi l'ensemble de mes tâches, mais en a fait moins que les semaines dernières étant donné que cette semaine était moins occupée que les précédentes.
- 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [X] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 ### Défis pour la prochaine semaine
-
-Le principal défi pour la semaine prochaine sera de finaliser l'installation.
+Compléter le projet. 
 
 ---
 ## Semaine 7
-
 ### Résumé des réalisations effectuées
-
-- Repeinturer le podium
-
+- Peinturer les vis sur le podium en noir.
+- Faire la carte du bloc C au 1ère étage du collège pour le comité Signalétique.
+- Prendre des vidéos de l'installation et lors des visites pour les deux vidéos.
+- Monter la vidéo courte.
+- Remplir le journal collectif. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![Image du monatge de la vidéo courte](medias/camelie_laprise/image_realisation_fiere_s7.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Parce que j'ai terminé de réaliser l'ensemble des tâches qui m'étaient assignées dans le lapse de temps qui m'était donné, c'est-à-dire une semaine. 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
-
+Être prête pour l'exposition.
 
 ## Semaine 8
+### Résumé des réalisations effectuées
+- Être présente à l'exposition et au vernissage.
+- Remettre tout le matériel emprunté aux TTP. 
